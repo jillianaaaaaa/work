@@ -12,9 +12,10 @@
 | Primary page for this topic | This asset is the primary page for the new strategic topic "choosing a venue for a multi-day wedding weekend", supporting /plan-your-destination-wedding. Proposed slug /expert-advice/how-to-choose-a-wedding-weekend-venue. Topic-map row added 21 Oct 2026 |
 | Tier | 2 (upgrade to Tier 1 only if we secure a named estate events director or planner quote and a Wedded Concierge line, and Jillian agrees to make it the multi-day pillar) |
 | Priority | High |
+| Classification (featured properties) | Heckfield Place: Signature, recommendation. Babylonstoren: Specialist (under 100 guests), recommendation for that need. Castiglion del Bosco: Specialist (provisional), principle example only. Villa Igiea: Specialist, principle example only. Kokomo: Specialist (provisional), held. Four Seasons Lanai and San Ysidro Ranch: Specialist, not featured. Reasons in each `knowledge/listings/` record |
 | Commercial relationship | None known. If any named estate or hotel is or becomes a partner, disclosure required and it must still pass the taste assessment |
-| Current stage | 02 Research |
-| Current owner | ww-research-intelligence |
+| Current stage | 03 Brief |
+| Current owner | ww-writer (with ww-seo-strategist; Checkpoint 1 outline to Jillian before drafting) |
 | Approver | Jillian (delegated editor may approve at Tier 2; Jillian approves if upgraded to Tier 1) |
 | Target publish date | Week of 16 November 2026, subject to Checkpoint 1 |
 | Refresh date | 6 to 8 weeks after publication (Search Console refresh loop), then at the 2028 trend-report cycle |
@@ -55,9 +56,34 @@ When a wedding becomes a three-day itinerary, the right venue is no longer the m
 - Optional for Tier 1: Alessandra Grillo or an estate events director on designing a multi-day itinerary around one property.
 - Confirm each other candidate (Villa Igiea, Four Seasons Resort Lanai, San Ysidro Ranch) actually hosted a multi-event weekend on site; pick three or four with the strongest verified fit across more than one region.
 
+## Editorial Director decisions for stage 03 (21 Oct 2026)
+
+**Featured properties and roles.** The piece teaches how to read a venue; properties are evidence for a principle, never a ranked list, and no ItemList schema.
+
+| Property | Role | Principle it evidences |
+|---|---|---|
+| Heckfield Place | Recommendation (Signature) | What exclusive use really covers (three tiers, two-night minimum, farm excluded); beds against guests (90 overnight, 120 by day, 28 rooms nearby by arrangement); licensed spaces for the legal ceremony |
+| Babylonstoren | Recommendation for celebrations under 100 guests (Specialist) | Venue-precinct exclusivity versus whole-hotel; settings used in sequence (Old Cellar, White Studio, Wheat Barn); restrictions that shape the night (midnight end, extendable) |
+| Castiglion del Bosco | Example of a principle only (provisional Specialist) | A setting for each occasion across one borgo; moving guests across a 2,000 ha estate (villa 4x4s); the seasonal hook. Never "recommended for X guests" |
+| Villa Igiea | Example of a principle only (Specialist) | Partial privacy (rooms around Salone Belmonte) versus full buy-out; distinct rooms with published capacities |
+| Kokomo, Four Seasons Lanai, San Ysidro Ranch | Not in the article | Kokomo is held pending Q5; Lanai and San Ysidro serve narrower needs and would turn the piece into a list |
+
+**Verification gates (may not be stated as fact).**
+1. Castiglion del Bosco: any capacity, buy-out terms or minimum stay, whether San Michele Arcangelo can host a legal ceremony, airports and transfer times, where the Cameron and David guests stayed. Never name Palazzo dei Priori. "Exclusive use of the whole estate" may be quoted as the operator's offer, nothing more.
+2. Heckfield Place: room count (45 or 46 conflict; write "90 guests overnight"); present the tiers as "per the Events 2025 brochure, last verified 21 Oct 2026" until Q2 confirms 2027; no curfew claim.
+3. Villa Igiea: no claim of whole-hotel buy-out; do not use the Salone Belmonte capacities; do not say the Dua Lipa celebration ran its events at the hotel.
+4. Babylonstoren: do not state which accommodation the package includes (Koornhuis versus Farmhouse conflict) or the total room count or transfer time; no prices; the 02h00 extension is "at an additional fee", no figure.
+5. Four Seasons "exclusives versus buyouts" is a group-wide definition unconfirmed for any featured property; do not use it as a property fact.
+6. Italian legal requirements: link to the existing legal guide and Angel Dei section; any Nulla Osta fee needs the full Embassy PDF read and the skill's fee disclaimer.
+7. No The Knot citation, no Esther Lee quote, no cost data (Axios T3). The Virtuoso exclusive-use figure (T6) may be cited to the primary PDF.
+8. Commercial relationships: none known; Jillian to confirm Q10 before publish. Disclosure not currently required.
+9. Tier stays 2 unless the Concierge line (Q8) and a named planner or estate quote (Q11) arrive.
+
 ## Decisions and change log
 
 | Date | Stage | Who | Decision or change |
 |---|---|---|---|
 | 21 Oct 2026 | 01 Plan | ww-editorial-director | Opened from intelligence brief 2026-10-21, Opportunity A. Commissioned with a narrowed scope (venue and hosting only) after a live-site check found more weekend coverage than the brief listed. Tier 2, High. Keyword fields pending ww-seo-strategist. Routed to ww-research-intelligence for stage 02. |
 | 21 Oct 2026 | 01/03 SEO input | ww-seo-strategist | Keyword map, SERP patterns, cannibalisation check and link plan filed in `seo.md`. Found an additional live overlap not in the ED list: /a-wedding-weekend-itinerary-for-guest-experience (owns "wedding weekend itinerary"); keyword excluded and link planned. Semrush unavailable (no API units); figures from DataForSEO. AI Overview screenshots requested from Jillian. |
+| 21 Oct 2026 | 02 Research | ww-research-intelligence | `research.md` filed with operator-sourced facts for seven candidates, open questions Q1 to Q12 and seven listing stubs. Laucala excluded (closed for renovation). |
+| 21 Oct 2026 | 02 to 03 | ww-editorial-director | Taste assessments recorded in all seven listings: Heckfield Signature; Castiglion del Bosco, Villa Igiea, Babylonstoren, Kokomo, Four Seasons Lanai and San Ysidro Ranch Specialist (Castiglion and Kokomo provisional on evidence). Article features four properties: two recommendations (Heckfield, Babylonstoren) and two principle examples (Castiglion del Bosco, Villa Igiea); Kokomo held. Verification gates set above. Topic-map rows resolved: itinerary page confirmed primary for weekend events; welcome dinner looks page primary for weekend style, update at refresh. Stage moved to 03 Brief, owner ww-writer. Recommendation only; Jillian or the delegated editor approves. |
