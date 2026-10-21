@@ -8,8 +8,8 @@
 | Audience | High-net-worth couples planning a destination wedding abroad for roughly 40 to 150 guests, at the venue-shortlisting stage, often with a planner or Wedded Concierge and with guests flying in |
 | Objective | The reader can assess whether a hotel, estate or borgo can host every occasion of a multi-day wedding (legal ceremony, welcome dinner, ceremony, celebration, day-after lunch) and every guest, and knows the questions to put to the venue before signing |
 | Journey stage | Comparison (moving into Selection) |
-| Primary keyword and intent | PENDING: ww-seo-strategist to set primary, secondary and question keywords and confirm intent (expected: informational, comparison) |
-| Primary page for this topic | PENDING ww-seo-strategist. Proposed: this asset becomes the primary page for a new strategic topic, "choosing a venue for a multi-day wedding weekend", supporting /plan-your-destination-wedding. Topic-map row to be added by ww-seo-strategist after the cannibalisation check |
+| Primary keyword and intent | Primary: "wedding weekend venues" (590/mo US, DataForSEO, 21 Oct 2026). Secondary: wedding venues with accommodation, exclusive use wedding venues, multi day wedding venues, destination wedding venue, how to choose a wedding venue. Excluded: "wedding weekend itinerary" (owned by /a-wedding-weekend-itinerary-for-guest-experience) and "villa wedding italy" (owned by the Tuscan villa article). Intent: informational with commercial investigation. Full map in `seo.md` |
+| Primary page for this topic | This asset is the primary page for the new strategic topic "choosing a venue for a multi-day wedding weekend", supporting /plan-your-destination-wedding. Proposed slug /expert-advice/how-to-choose-a-wedding-weekend-venue. Topic-map row added 21 Oct 2026 |
 | Tier | 2 (upgrade to Tier 1 only if we secure a named estate events director or planner quote and a Wedded Concierge line, and Jillian agrees to make it the multi-day pillar) |
 | Priority | High |
 | Commercial relationship | None known. If any named estate or hotel is or becomes a partner, disclosure required and it must still pass the taste assessment |
@@ -60,3 +60,4 @@ When a wedding becomes a three-day itinerary, the right venue is no longer the m
 | Date | Stage | Who | Decision or change |
 |---|---|---|---|
 | 21 Oct 2026 | 01 Plan | ww-editorial-director | Opened from intelligence brief 2026-10-21, Opportunity A. Commissioned with a narrowed scope (venue and hosting only) after a live-site check found more weekend coverage than the brief listed. Tier 2, High. Keyword fields pending ww-seo-strategist. Routed to ww-research-intelligence for stage 02. |
+| 21 Oct 2026 | 01/03 SEO input | ww-seo-strategist | Keyword map, SERP patterns, cannibalisation check and link plan filed in `seo.md`. Found an additional live overlap not in the ED list: /a-wedding-weekend-itinerary-for-guest-experience (owns "wedding weekend itinerary"); keyword excluded and link planned. Semrush unavailable (no API units); figures from DataForSEO. AI Overview screenshots requested from Jillian. |
