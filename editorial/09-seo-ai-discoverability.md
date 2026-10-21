@@ -34,3 +34,5 @@ No practice guarantees inclusion in an AI-generated answer. The goal is content 
 - Publish near-duplicates of live pages; we update or consolidate instead.
 
 Article-level SEO rules (keyword density, meta lengths, headings, links, schema, refresh loop) are in the `wedded-wonderland-articles` skill.
+
+**Keyword density measure (ruled 21 October 2026, ww-seo-strategist):** the skill's "1 to 2 percent" is phrase-word share, (occurrences x words in the keyphrase) / total words, because a raw occurrence rate would force a multi-word phrase into stuffing; ignore CMS plugin "low density" flags that count occurrences only.
