@@ -83,7 +83,62 @@ Secondary SERP, "how to choose a destination wedding venue": Reddit, destination
 5. Ranking pages are almost entirely US-regional and listing-led; there is no international, verified, dated set of worked examples (Italy plus at least one other region).
 6. Nothing frames guest hospitality over several days; the SERP and PAA lean on cost.
 
-**AI Overview.** DataForSEO flags an AI Overview at position 1 for both "wedding weekend venues" and "how to choose a destination wedding venue", and AI-expanded PAA answers, but the content loads asynchronously and was not returned. **Request for Jillian:** please share AI Overview screenshots for "wedding weekend venues", "wedding venues with accommodation" and "exclusive use wedding venue" (US and AU if possible) so we can see which sources and fact types Google cites. Until then, the brief should make each H2 open with a quotable one-sentence answer and carry verified numbers (rooms, settings, capacities) with last-verified dates.
+**AI Overview.** DataForSEO flags an AI Overview at position 1 for both "wedding weekend venues" and "how to choose a destination wedding venue", and AI-expanded PAA answers, but the content loads asynchronously and was not returned. **Request for Jillian:** please share AI Overview screenshots for "wedding weekend venues", "wedding venues with accommodation" and "exclusive use wedding venue" (US and AU if possible) so we can see which sources and fact types Google cites. Until then, the brief should make each H2 open with a quotable one-sentence answer and carry verified numbers (rooms, settings, capacities) with last-verified dates. **Update 21 Oct 2026:** Jillian supplied the AIO for the head term "wedding weekend"; see the AI Overview analysis below. Screenshots for the three queries above are still outstanding.
+
+## AI Overview analysis (21 Oct 2026)
+
+**Input:** Jillian's screenshot, Google AI Overview for "wedding weekend" (`aio-wedding-weekend-2026-10-21.png`, captured 21 Oct 2026; market not stated on the screenshot). Volumes below are from DataForSEO Google Ads search volume (live, 21 Oct 2026, 12-month average). Anything marked **estimate** is our judgement.
+
+### What the AIO says about intent
+
+- **What Google shows.** An opening summary ("planning a multi-day celebration turns a standard ceremony into a relaxed vacation"), a "Standard 3-Day Itinerary" (Day 1 welcome party, Day 2 main event with optional morning activities, Day 3 farewell brunch), "Essential Planning Tips" (build in breathing room, keep events optional, centralise logistics), then a prompt asking for number of days, local or destination, and guest count.
+- **Cited sources.** Vogue ("The Ultimate Wedding Weekend Guide: How to Plan a Multi-Day Celebration"), Easy Weddings ("The Multi-Event Wedding Weekend: Planning More Than One...", dated 12 Oct 2026, AU), Forest Edge / Wedding Venue Gembrook ("Your Long Weekend Wedding Timeline Guide"), Paperlust (itinerary card wording), Multi ("How To Plan A Wedding Weekend") and ByChenai ("Ultimate Guide To Planning A 3-Day Wedding Weekend"). Easy Weddings is also the first organic result below the AIO.
+- **Intent reading.** Google treats "wedding weekend" as a **Planning-stage, schedule-led** query: what happens on each day and how to pace it. Only one of the three tips concerns the venue ("Centralize Logistics: choose a venue with on-site lodging or block nearby hotel rooms with pre-arranged shuttle transport", cited to Forest Edge).
+- **Size.** "wedding weekend": 2,900/mo US (5,400 in Sep 2026), 90/mo AU (320 in May 2026). Related: "wedding weekend schedule" 90 US / 10 AU; "wedding weekend ideas" 30 US; "how to plan a wedding weekend" 10 US; "multi day wedding" 30 US / 10 AU.
+
+### Which page should target what
+
+| Query | Intent | WW page | Decision |
+|---|---|---|---|
+| wedding weekend (head term) | Planning: what a multi-day celebration looks like, day by day | /a-wedding-weekend-itinerary-for-guest-experience | This page owns the head term (it already owns the schedule and is the confirmed primary for wedding weekend events in `knowledge/topic-map.md`). Refresh recommended, below |
+| wedding weekend venues (our primary) | Comparison into Selection: which property can host it all | /expert-advice/how-to-choose-a-wedding-weekend-venue (this asset) | Unchanged. Do not retarget the venue guide to the head term: its H1, H2s and meta stay on "wedding weekend venue(s)". It will earn incidental "wedding weekend" impressions, which is fine |
+
+The AIO confirms our split. Google answers the head term with a schedule, and the one venue tip it carries is exactly the question this asset answers in depth. The venue guide should be the page Google cites for that tip, while the itinerary page competes for the head term.
+
+### What Google pulls, and our most citable sections
+
+Google lifts **short, imperative, answer-first sentences** with a bolded label ("Centralize Logistics: ..."), a **named three-occasion structure** (welcome party, main day, farewell brunch) and **generic tips** with no numbers. None of the cited pages offers verified capacities, room counts, buy-out terms or transfer times. That is our differentiator and our citation case (estimate: the AIO currently cites generic sources because nothing more specific exists).
+
+Most citable planned sections, in order:
+1. **H2 4 "Where Every Guest Sleeps at a Wedding Weekend Venue"**: maps directly to the lodging half of the "Centralize Logistics" tip.
+2. **FAQ 1 "How do you host guests who cannot sleep at the venue?"**: maps to the room-block and shuttle half.
+3. **H2 5 "Moving Guests Between Events at a Wedding Weekend Venue"**: transport.
+4. **H2 3 "A Setting for Each Occasion of a Multi-Day Wedding"**: the venue lens on the three-day shape.
+5. **H2 1 "How to Choose a Venue for a Wedding Weekend"**: the overall answer.
+
+### Instructions for ww-writer (within the approved outline; no new H2s, no itinerary content)
+
+1. **H2 4, first sentence (quotable answer).** Open with: "The easiest wedding weekend venue to host is one where most of your guests can sleep on site, with rooms nearby and arranged transfers for everyone else." Then keep the outline's beds-against-guests test as the second sentence.
+2. **FAQ 1, first sentence.** Answer: "Block rooms at a hotel or house close to the venue and arrange timed transfers to and from every event, so no guest has to drive or organise their own way." Then the Heckfield/Wellington Lodge example and Wedded Concierge as planned. Keep its wording different from H2 4 so the FAQ does not repeat the body.
+3. **H2 3, first sentence.** Name the occasions Google uses so the venue lens matches the AIO's frame: "A venue suited to a wedding weekend gives each occasion its own setting, from the welcome party and the wedding day to the farewell brunch, with a wet-weather alternative for each." Use "welcome party" and "farewell brunch" in copy only, never in a heading.
+4. **H2 5, first sentence.** Keep the outline's answer but make the transfer point explicit and quotable: "Choose a venue that moves guests between events itself, by foot, estate vehicle or pre-arranged coach, and ask how long each transfer takes."
+5. **Breathing room, venue lens only.** In H2 3 (or H3 3.1), one sentence that a property with places to spend unscheduled hours (gardens, a pool, a spa, walking paths) lets free time between occasions feel hosted. Do not list activities or a schedule.
+6. **H2 1 answer.** Mention guest count and number of nights as the two figures to bring to every venue conversation (these are the variables the AIO asks for).
+7. **Add FAQ 7: "How many nights should you book a wedding weekend venue for?"** Answer first: three nights covers the usual welcome party, wedding day and farewell brunch; then point to the venue's minimum stay (H3 7.2, link, do not restate the figures) and to the schedule guide for the shape of the days. No pricing.
+8. **Every number dated.** Capacities, room counts and transfer times carry "per [operator document], verified [date]" in Sources. Freshness and specificity are our case against a 12 Oct 2026 competitor page.
+9. **Sources rules.** Easy Weddings, Forest Edge, Paperlust, Multi and ByChenai: research only, never cited or linked. **Vogue may now be cited** (standing ruling, 21 Oct 2026). This removes the competitor objection to the Cameron and David slideshow (H3 1.1 Option A), subject to Jillian's call at Checkpoint 1; no Vogue photography either way. Do not cite the Vogue wedding weekend guide unless the draft uses a specific point from it.
+10. **Link the schedule companion once** (already planned in H3 1.2) so Google can see the itinerary page as the head-term owner and this page as the venue answer.
+
+### Recommendation for later: refresh the itinerary page for the head term
+
+Recommend refreshing /a-wedding-weekend-itinerary-for-guest-experience to compete for "wedding weekend" **after** the venue guide publishes (so it can link down to it). Scope for the refresh, to be planned as its own asset at stage 01:
+- Retitle and meta to lead with "Wedding Weekend" (the current title leads with "Your Guests Are Judging Your Wedding").
+- An answer-first opening and a clear three-day shape (welcome party, wedding day, farewell brunch) with WW's point of view on pacing, optional events and free time.
+- A "centralise logistics" passage linking to the venue guide (anchor such as "how to choose a wedding weekend venue"), plus links to the welcome party, rehearsal dinner, brunch and morning-after pieces.
+- A Frequently Asked Questions block, Article and FAQPage markup, a fresh dateModified and named, citable sources (Vogue now permitted).
+- **Baseline needed first:** Search Console impressions, clicks and average position for "wedding weekend" and "wedding weekend itinerary" on that URL (Semrush unavailable this session, so no tool ranking figure). Judge the refresh on qualified impressions and engagement against that baseline.
+
+Logged in `knowledge/topic-map.md` (wedding weekend events row).
 
 ## 4. Cannibalisation check
 
