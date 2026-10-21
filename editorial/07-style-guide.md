@@ -45,6 +45,26 @@ Australian spelling (colour, organise, travelled, centre), AUD for currency, num
 - Commercial relationships are disclosed clearly in the format the CMS supports. Disclosure does not lower the editorial standard.
 - Partners do not approve editorial copy; they may correct facts.
 
+## 5a. Sources we cite (Jillian, 21 Oct 2026)
+
+- News, policy, legal and government topics: credible, established, trusted news outlets and primary sources only. Never Axios or any AI-driven or aggregator outlet.
+- Fashion, beauty, celebrity and wedding topics: the most authoritative established source (Vogue may be cited; official brand and designer channels).
+- Never a direct competitor (wedding directories and planning sites), including statistics an outlet borrows from one. If a figure traces only to a competitor, write the trend qualitatively instead.
+- Titles of cited works are quoted exactly, even when they contain words we would not use ourselves.
+
+## 5b. Hospitality voice (Jillian, 21 Oct 2026)
+
+We write as hosts. Reader-facing copy, and FAQ answers above all, describes how things are handled and reassures the couple that they are looked after; Wedded Concierge carries the logistics. We never hand the reader a to-do list ("make sure you book", "ask the venue", "confirm", "check").
+
+Rejected: "Ask the venue for its terms in writing before you sign."
+Approved: "We secure each venue's terms for your dates in writing, so nothing about the weekend is left to assumption."
+
+Internal frameworks (the six criteria, "tests", classifications) never appear as jargon in reader copy.
+
+## 5c. Destinations, discreetly (Jillian, 21 Oct 2026)
+
+Take every natural opportunity to mention one or two of our top destinations (Lake Como, Tuscany, the Amalfi Coast, France), linked to their pages. Implied, never a hard sell, never a claim we have not verified.
+
 ## 6. SEO and AI-search principles
 
 See `09-seo-ai-discoverability.md`. In short: clear answers first, verifiable expertise, specific information, consistent structure.

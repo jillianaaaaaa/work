@@ -259,3 +259,68 @@ Listing stub: `knowledge/listings/four-seasons-resort-lanai.md`
 ### D. Vogue (now citable, ruling 21 Oct 2026)
 
 **Verified.** "Inside Dove Cameron and Damiano David's Timeless Wedding at a Medieval Tuscan Estate", Liam Hess, Vogue, published 29 Sep 2026. https://www.vogue.com/slideshow/dove-cameron-and-damiano-david-wedding (status 200). Verbatim: "worked with Alessandra Grillo to plan the wedding"; "the home base for festivities being Castiglion del Bosco"; "For the civil ceremony in Montalcino ... for the dinner afterwards back at Castiglion del Bosco"; "the main ceremony held with a wider group at Castiglion del Bosco on the Saturday". Vogue also quotes the couple on "the flow of the weekend". It still does not say where guests stayed. T9 is upgraded from spot-checked to verified.
+
+## Source replacement, 21 Oct 2026
+
+**Trigger.** Jillian's source credibility ruling (CLAUDE.md, 21 Oct 2026): never Axios or any AI-driven or aggregator outlet. The draft's trend line ("In the United States nearly one in three weddings now spans at least three days, Axios reported on 18 October 2026"), Key Takeaway 1 and Sources item 1 all rest on Axios. T1, T2 and T3 in section 1 are **withdrawn** and must not be cited. The "one in three" figure traces to The Knot (a competitor), so the number goes with it.
+
+### A. Recommended replacement (verified, read in full 21 Oct 2026)
+
+| # | Detail | Value |
+|---|---|---|
+| R1 | Headline | "The Ultimate Wedding Weekend Guide: How to Plan a Multi-Day Celebration" (og:title and page title; some search snippets show it without "Ultimate") |
+| R1 | Author | Shelby Wax, Contributing Weddings Editor, Vogue |
+| R1 | Publication and date | Vogue (Condé Nast), published 20 January 2026 (article:published_time 2026-01-20) |
+| R1 | URL | https://www.vogue.com/article/the-wedding-weekend-guide-how-to-plan-a-multi-day-celebration (status 200) |
+| R1 | Source type | Press (established title, citable under the 21 Oct 2026 Vogue ruling) |
+| R1 | Supporting wording, verbatim | "We are officially in the era of the wedding weekend. While it's not required, many couples choose to turn their weddings into a lineup of events to have even more time to celebrate with their loved ones." |
+| R1 | Useful for the venue angle (not required) | Augusta Cole: a "home base can be a full hotel property buyout offering a variety of onsite venues"; "A buyout often allows for hosting parties in spaces on the grounds that would otherwise be unavailable to a regular hotel guest." |
+| R1 | Competitor check | No The Knot, Brides or directory statistic in the article. Planners quoted: Marcy Blum, Augusta Cole. No number to carry. |
+| R1 | Verified | 2026-10-21 |
+
+**Writer flag.** The exact headline contains "Ultimate", a banned word in visible copy. A published headline in Sources is a quotation, so reproduce it exactly; ww-publishing-ops should expect the scripted banned-word check to hit Sources item 1 and treat it as an exception. If the team prefers no exception, use R2 as the citation instead.
+
+### B. Corroborating signal (independent, verified 21 Oct 2026)
+
+| # | Detail | Value |
+|---|---|---|
+| R2 | Headline | "Inside the Wedding Guest Economy" |
+| R2 | Author | Maliha Shoaib, Senior Reporter, Vogue Business |
+| R2 | Publication and date | Vogue (Vogue Business), published 30 April 2026 |
+| R2 | URL | https://www.vogue.com/article/inside-the-wedding-guest-economy (status 200) |
+| R2 | Supporting wording, verbatim | Standfirst: "As weddings evolve into multi-day, content-driven events, the modern wedding guest is spending more but demanding more value." Body: "What's newer is the way Western wedding culture is catching up, fueled by destination travel, social media, and the rise of weddings as events with a highly curated aesthetic." Planner Matthew Shaw (Sauveur): "Multi-day weddings, either at home or abroad, have become a mainstay on the wedding scene." |
+| R2 | Caution | The piece is about guest spending and fashion retail; quote only the multi-day framing, never the spending angle (cost framing is banned in status.md). |
+
+### C. Candidates checked and rejected
+
+| Source | Finding | Verdict |
+|---|---|---|
+| WSJ, Perri Ormont Blumberg, "The Wedding Guests' Guide to Saying No", 16 Sep 2026, https://www.wsj.com/lifestyle/the-wedding-guests-guide-to-saying-no-1d2b973d | Paywalled; only the opening was readable. Search snippet attributes "More than two-thirds of weddings now last two to three days" to The Knot's 2026 Real Weddings Study. Guest-cost framing. | Reject: statistic traces to a competitor, full text not read, cost angle |
+| The Telegraph, Sarah Rainey, "'My friend's five-day, colour-coded mega wedding cost me £5,000'", 27 Aug 2024 | Says "37 per cent now planning multi-day nuptials" with no source named; guest-cost framing; 2024. | Reject: unsourced figure, outside 2025 to 2026, cost angle |
+| The New York Times, "Your Wedding Guests Have Questions. There's a Concierge for That.", 26 Sep 2026, https://www.nytimes.com/2026/09/26/style/wedding-concierges-for-guests.html | Firecrawl cannot fetch nytimes.com; only the search snippet seen. Not read, so not citable. Worth a manual read for a future Concierge piece. | Not verified; monitor |
+| The New York Times, "Destination Weddings Are Moving Closer to Home", 1 Aug 2026 | Snippet cites Honeyfund (a registry platform) for its figure. Not read. Off-topic for multi-day. | Not used |
+
+**Outcome on the statistic.** No established, independent outlet read today gives a multi-day share of weddings that does not trace to The Knot (or another wedding platform). Recommendation: drop the number and use a qualitative sentence attributed to Vogue.
+
+### D. Recommended copy (for ww-writer)
+
+- Body (H2 1 lead, replacing the Axios sentence): Vogue declared in January 2026 that "we are officially in the era of the wedding weekend", and advisors surveyed for Virtuoso's 2027 Luxe Report, published in September 2026, rank celebration travel second among ultraluxe experiences.
+- Key Takeaway 1 (no attribution needed): Many couples now host their wedding as a weekend, so the venue decision covers a whole stay.
+- Sources item 1: Vogue, Shelby Wax, "The Ultimate Wedding Weekend Guide: How to Plan a Multi-Day Celebration", 20 January 2026, last verified 21 October 2026. https://www.vogue.com/article/the-wedding-weekend-guide-how-to-plan-a-multi-day-celebration
+- Remove "In the United States" framing: the Vogue line is not country-specific.
+- Also update the Axios references in brief.md, outline.md, seo.md, status.md, review.md and review-checkpoint1.md (managing editor to route), and drop "Axios's hospitality point" (T2) wherever it is relied on.
+
+### E. Other Sources in draft.md checked against the ruling
+
+| # | Source | Verdict |
+|---|---|---|
+| 1 | Axios | **Remove.** Replace with R1 above. |
+| 2 | Virtuoso, 2027 Luxe Report PDF | Keep. Primary source for its own advisor survey (a travel advisor network, not an aggregator or competitor). Commercial note already in research.md. |
+| 3 | Vogue, Liam Hess, Cameron and David wedding | Keep. Citable under the 21 Oct 2026 Vogue ruling. |
+| 4 | Heckfield Place Events 2025 PDF | Keep. Official operator PDF, latest edition (operator PDF ruling). |
+| 5 to 7 | Rosewood Hotels, Castiglion del Bosco pages | Keep. Official operator pages. |
+| 8 to 10 | Rocco Forte Hotels, Villa Igiea pages | Keep. Official operator pages. |
+| 11 to 13 | Babylonstoren pages and Wedding Guide 2026-27 PDF | Keep. Official operator pages and current PDF. |
+| 14 | GOV.UK, General Register Office guidance | Keep. Primary government source. |
+
+No other source breaches the ruling.

@@ -67,13 +67,17 @@ Review depth follows the tier (see `editorial/06-workflow.md`): Tier 1 flagship,
 
 These override the `wedded-wonderland-articles` skill until Jillian updates it. Apply them on every article.
 
-- **Wedded Concierge CTA block (21 Oct 2026).** Four lines, the button line now included:
+- **Wedded Concierge CTA block (revised 21 Oct 2026).** Three short lines. Warm and guiding, never transactional, vague or long:
   ```
   Planning your [topic]?
-  Let our Wedded Concierge shape your [name of experience or service].
-  Discover [a prompt line that connects to Wedded Wonderland].
+  Let our Wedded Concierge guide you in [the specific choice or experience].
   Join Wedded Concierge →
   ```
+  Approved example: "Planning your wedding weekend abroad? / Let our Wedded Concierge guide you in choosing the best wedding weekend venue. / Join Wedded Concierge →"
+- **Source credibility (21 Oct 2026).** For news, policy, legal and government topics, cite only credible, established, trusted news outlets and primary sources (government, official bodies). Never Axios or any AI-driven or aggregator outlet. For fashion, beauty, celebrity and wedding topics the team chooses the most authoritative established source (e.g. Vogue, official brand or designer channels).
+- **Top destinations, subtly, whenever possible (21 Oct 2026).** Every article takes the natural opportunities to mention one or two of Wedded Wonderland's top wedding destinations (Lake Como, Tuscany, the Amalfi Coast, France and our other destination hubs), linked to their pages. Discreet and implied, never a hard sell, never exaggerated, never a fact we have not verified.
+- **FAQ voice (21 Oct 2026).** FAQ answers speak on behalf of Wedded Wonderland and carry its quality of service. Never instruct the reader to book, plan, ask, check or "make sure" (or any synonym); that is what Wedded Concierge does. Answer as a host would: tell the reader how it is handled and that they are looked after.
+- **Concise, no repetition (21 Oct 2026).** Insight over length. Each idea appears once. Cut any section, sentence or example that restates another. Internal frameworks (our "tests", criteria, classifications) never appear as jargon in reader copy; say plainly what the couple considers and why.
 - **Vogue may be cited (21 Oct 2026).** Vogue is not a direct competitor; Wedded Wonderland works alongside it. Direct competitors (wedding directories and planning sites such as The Knot, Easy Weddings, Brides) remain uncitable.
 - **Commercial relationships are the team's job to establish (21 Oct 2026).** Before Checkpoint 2, `ww-research-intelligence` checks every featured property and brand against Wedded Wonderland's own pages (vendor and venue directories, Wedded World partners, magazines, packages) and public sources, and reports the finding with evidence. Do not hand the question to Jillian.
 - **Operator PDFs may be listed in Sources (21 Oct 2026)** when they are official and the latest available version; record the version or date.
