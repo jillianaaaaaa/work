@@ -57,7 +57,7 @@ Source: DataForSEO, 21 Oct 2026 (Semrush unavailable). "Can you book a whole ven
 **How to Choose a Wedding Weekend Venue That Hosts Every Occasion**
 
 ### Deck
-As more celebrations run over three days, wedding weekend venues are judged on everything they can hold, from the first dinner to the last lunch. This is Wedded Wonderland's guide to reading a destination wedding venue for the whole stay, from exclusive use and guest rooms to the walk between dinner and dancing, shown through four properties in England, Italy and South Africa.
+As more weddings run over three days, led by the United States, wedding weekend venues are judged on everything they can hold, from the first dinner to the last lunch. This is Wedded Wonderland's guide to reading a destination wedding venue for the whole stay, from exclusive use and guest rooms to the walk between dinner and dancing, shown through four properties in England, Italy and South Africa.
 
 `[IMAGE SLOT 1 (hero): a wedding weekend setting at one of the four featured properties, landscape, operator media; a long table or estate view with no identifiable guests]`
 
@@ -82,13 +82,15 @@ Flag: panoramic banner (1600 x 600); hero crop and resolution to confirm.
 
 ### H2 1. How to Choose a Venue for a Wedding Weekend
 
-Choose a wedding weekend venue by testing whether one property can host every occasion and every guest across the stay, from the welcome dinner through the ceremony and celebration to the lunch the day after. In the United States nearly one in three weddings now spans at least three days, Axios reported in October 2026, and advisors surveyed for Virtuoso's 2027 Luxe Report rank celebration travel second among ultraluxe experiences. The question has moved from where the vows take place to which property can hold the whole celebration, and it is the judgement we bring to every destination wedding we help plan.
+Choose a wedding weekend venue by testing whether one property can host every occasion and every guest across the stay, from the welcome dinner through the ceremony and celebration to the lunch the day after. In the United States nearly one in three weddings now spans at least three days, Axios reported in October 2026, and advisors surveyed for Virtuoso's 2027 Luxe Report rank celebration travel second among ultraluxe experiences. That makes the venue a decision about the whole stay, and our planning hub sets out how we help couples shortlist for it.
 
-**WW thread:** /plan-your-destination-wedding (planning hub, linked in body) · **Links:** /plan-your-destination-wedding; Axios (external, Sources)
+**WW thread:** /plan-your-destination-wedding (anchor "planning hub", in the copy) · **Links:** /plan-your-destination-wedding; Axios (external, Sources)
 
 #### H3 1.1. Why the Venue Now Carries the Whole Stay
 
-A celebration over several days asks guests to give their time and energy, and it gives the couple more hours to host them well. One of this season's weddings in Tuscany showed that shape clearly. Dove Cameron and Damiano David held a civil ceremony in Montalcino, then their main ceremony on the Saturday at Castiglion del Bosco, a Rosewood estate in the Val d'Orcia, planned by Alessandra Grillo.
+A celebration over several days asks guests to give their time and energy, and it gives the couple more hours to host them well. Dove Cameron and Damiano David held a civil ceremony in Montalcino, then their main ceremony on the Saturday at Castiglion del Bosco, a Rosewood estate in the Val d'Orcia, planned by Alessandra Grillo.
+
+**Decision for Jillian (change 14):** ED recommends not citing Vogue, which ranks for this query. Option A: keep the paragraph above, sourced to an official Instagram post by the couple or Alessandra Grillo that names Castiglion del Bosco (embed, cited; ww-publishing-ops to find one). Option B, if no such post exists, cut the couple and use: "A celebration over several days asks guests to give their time and energy, and it gives the couple more hours to host them well. Castiglion del Bosco, a Rosewood estate in the Val d'Orcia, describes on its weddings page catering for large parties that require exclusive use of the whole estate." Under option B, the matching sentence in H3 3.1 is trimmed so the point is not made twice.
 
 **Links:** /expert-advice/what-is-a-tuscany-wedding-actually-like (anchor: "how a Tuscan celebration unfolds over several days"); Vogue (Sources, pending your decision) · **Gate:** no town hall name, nothing on where guests stayed
 
@@ -106,11 +108,11 @@ We read every property against five tests, covering how much of it you can take,
 
 Exclusive use gives your party a venue, or a defined part of it, to itself for the dates you book, and each property draws that line in a different place. Before you compare settings, ask which spaces stay open to the public, how many nights the venue requires and what the buy-out leaves out.
 
-**WW thread:** /destination-wedding-packages (venue terms are what our packages negotiate) · **Links:** /destinations/europe (Heckfield)
+**WW thread:** /destination-wedding-packages `[TO VERIFY: confirm on the live page whether packages cover venue terms before any copy says so]` · **Links:** /destinations/europe (Heckfield)
 
 #### H3 2.1. What a Full Buy-Out Covers at Heckfield Place
 
-Per its Events 2025 brochure (last verified 21 October 2026), Heckfield Place sells exclusive use of its Georgian house and 400-acre Hampshire estate in three tiers. Under A Key to the House and Walled Gardens, members still use The Bothy spa, and only the third tier, A Key to Heckfield, gives total privacy. Every tier carries a two-night minimum, and the estate's farm sits outside the buy-out at all three levels.
+Per its Events 2025 brochure (last verified 21 October 2026), Heckfield Place sells exclusive use of its Georgian house and 400-acre (about 160-hectare) Hampshire estate in three tiers. Under A Key to the House and Walled Gardens, members still use The Bothy spa, and only the third tier, A Key to Heckfield, gives total privacy. Every tier carries a two-night minimum, and the estate's farm sits outside the buy-out at all three levels.
 
 `[TO VERIFY: whether the 2025 tiers apply to 2027 dates (Q2)]` · **Role:** Recommendation (Signature)
 
@@ -141,9 +143,9 @@ At Babylonstoren, a 200-hectare farm in the Cape Winelands, the function venues 
 
 ### H2 3. A Setting for Each Occasion of a Multi-Day Wedding
 
-A multi-day wedding needs a distinct setting for each occasion, so the welcome dinner, ceremony, celebration and day-after lunch never depend on one room being turned over in the night. Count the spaces a property can give you, then ask for a wet-weather alternative for every one of them.
+A multi-day wedding needs a distinct setting for each occasion, so the welcome dinner, ceremony, celebration and day-after lunch never depend on one room being turned over in the night. Count the spaces a property can give you and ask for a wet-weather alternative for each, then assign every occasion to its day and setting with our wedding day timeline.
 
-**WW thread:** /destinations/europe/italy/tuscany-wedding and /destinations/europe/italy (regional venue expertise) · **Links:** /expert-advice/do-you-need-a-wedding-welcome-party (anchor "a welcome party"), /how-to-turn-your-destination-wedding-event-into-an-experience (anchor "designing each event as an experience")
+**WW thread:** /expert-advice/wedding-day-timeline (anchor "wedding day timeline", in the copy); the Tuscany and Italy links stay in H3 3.1 and H3 3.2 · **Links:** /expert-advice/do-you-need-a-wedding-welcome-party (anchor "a welcome party"), /how-to-turn-your-destination-wedding-event-into-an-experience (anchor "designing each event as an experience")
 
 #### H3 3.1. One Borgo, Many Settings at Castiglion del Bosco
 
@@ -164,9 +166,9 @@ Flag: this URL carries the site's 40 percent dark overlay; request the clean fil
 
 #### H3 3.2. Rooms With Published Capacities at Villa Igiea
 
-Villa Igiea publishes seven reception rooms with a capacity for each, which lets a planner assign every occasion to a room before the first site visit. The Belle Époque Ballroom seats 200, Sala Basile seats 80, the Florio Restaurant seats 80 indoors or 70 outdoors and Terrazza Mare holds 400 standing, while the Green Room and Green Terrace each seat 22 for a smaller dinner. Dining across the hotel is overseen by Fulvio Pierangelini.
+Villa Igiea publishes seven reception rooms with a capacity for each, which lets a planner assign every occasion to a room before the first site visit. The Belle Époque Ballroom seats up to 180, Sala Basile seats 80, the Florio Restaurant seats 80 indoors or 70 outdoors and Terrazza Mare holds 400 standing, while the Green Room and Green Terrace each seat 22 for a smaller dinner. Dining across the hotel is overseen by Fulvio Pierangelini.
 
-**Role:** Principle example only · **Links:** /destinations/europe/italy (anchor "weddings across Italy")
+**Role:** Principle example only · **Links:** /destinations/europe/italy (anchor "weddings across Italy") · **Fact note:** Ballroom 180 seated per its own floor-plan page (read by ww-publishing-ops, 21 Oct 2026); 200 is the theatre-style layout, which the weddings page lists as seated
 
 `[IMAGE SLOT 4: Villa Igiea, the Belle Époque Ballroom or the terrace over the sea, landscape, Rocco Forte Hotels media]`
 
@@ -182,9 +184,9 @@ Flag: shows the terrace, sea not confirmed; no official Ballroom photo found. Or
 
 #### H3 3.3. Settings Used in Sequence at Babylonstoren
 
-Babylonstoren moves a wedding evening through three farm buildings in turn, with dinner at a single long table in the Old Cellar, which seats 100, dessert in the White Studio and dancing in the Wheat Barn. Ceremonies take place under the oaks by the stream or, at an additional fee, in the House of Shadows at the foot of the garden; fees may change, so confirm current terms with the venue. For an evening of up to 100 guests in the Cape Winelands, it is a property we recommend, provided the rest of the weekend is planned around it.
+Babylonstoren moves a wedding evening through three farm buildings in turn, with dinner at a single long table in the Old Cellar, which seats 100, dessert in the White Studio and dancing in the Wheat Barn. Ceremonies take place under the oaks by the stream or, at an additional fee, in the House of Shadows at the foot of the garden; fees may change, so confirm current terms with the venue. For an evening of up to 100 guests, it is a property we recommend, provided the rest of the weekend, and any safari or island honeymoon after the Winelands, is planned around it.
 
-**Role:** Recommendation for celebrations under 100 · **Gate:** no fee figure, no price
+**Role:** Recommendation for celebrations under 100 · **Gate:** no fee figure, no price · **Links:** https://weddedwonderland.com/expert-advice/african-honeymoons-private-safari-and-island-escapes-by-season (anchor "a safari or island honeymoon after the Winelands") `[TO VERIFY: returns 200]`
 
 `[IMAGE SLOT 5: Babylonstoren, the Old Cellar set for a long-table dinner or the garden, landscape, Babylonstoren media]`
 
@@ -208,7 +210,7 @@ The most useful single test of wedding venues with accommodation is the gap betw
 
 #### H3 4.1. Beds Against Guests at Heckfield Place
 
-With exclusive use, Heckfield Place hosts up to 120 guests by day in the house, or 150 with a marquee on Circus Maximus or at Big Thumper, and 90 guests overnight. A further 28 rooms nearby, at Wellington Lodge at Highfield, can be arranged for guests beyond the house. For an English country-house weekend of up to 90 guests sleeping on site, Heckfield Place is the property we would put first.
+With exclusive use, Heckfield Place hosts up to 120 guests by day in the house, or 150 with a marquee on Circus Maximus or at Big Thumper, and 90 guests overnight. A further 28 rooms nearby, at Wellington Lodge at Highfield, can be arranged for guests beyond the house. For an English country-house weekend with up to 90 guests sleeping on site, Heckfield Place is the property we recommend.
 
 `[TO VERIFY: distance and transfer between Heckfield and Wellington Lodge]` · **Gate:** no room count (45 or 46 conflict); figures carry "per the Events 2025 brochure" in the draft
 
@@ -222,9 +224,9 @@ Babylonstoren's wedding packages include accommodation on the farm for a small p
 
 ### H2 5. Moving Guests Between Events at a Wedding Weekend Venue
 
-Guests should reach every occasion of a wedding weekend on foot or in vehicles the venue runs, with no transport of their own to arrange between events. Ask how far apart the settings sit, what moves people between them and how guests reach the property on arrival.
+The shorter and better arranged the journey between settings, the more of the weekend guests spend together, so ask who moves people between events and how long each transfer takes. Through Wedded Concierge we arrange arrivals and transfers so no guest has to organise their own.
 
-**WW thread:** /wonderland-concierge (transfers and arrival arranged for guests)
+**WW thread:** /wonderland-concierge (anchor "Wedded Concierge", in the copy)
 
 #### H3 5.1. Distances Across a 2,000-Hectare Estate at Castiglion del Bosco
 
@@ -234,7 +236,7 @@ Castiglion del Bosco covers 2,000 hectares (5,000 acres), so settings across the
 
 #### H3 5.2. Arriving at the Property
 
-Heckfield Place sits under an hour from London and offers Land Rovers or coaches to move guests, while Villa Igiea suggests arrival by boat for a wedding party. For a property further from a capital, ask for the nearest international airport and the transfer time before it reaches your shortlist.
+Heckfield Place gives its journey from London as under an hour and offers Land Rovers or coaches to move guests, while Villa Igiea suggests arrival by boat for a wedding party. For a property further from a capital, ask for the nearest international airport and the transfer time before it reaches your shortlist.
 
 `[TO VERIFY: nearest airports and transfer times for Castiglion del Bosco, Villa Igiea and Babylonstoren; none stated in the draft until confirmed]`
 
@@ -248,7 +250,7 @@ A wedding weekend venue needs more than one dining room able to cater on the sam
 
 #### H3 6.1. Three Dining Rooms at Heckfield Place
 
-Skye Gyngell, Heckfield's culinary director, sets menus across Marle, which seats 85 inside and 40 on the terrace and is available with exclusive use only, Hearth, built around open-fire cooking, and the Dining Room, which seats 26. The estate's certified organic Home Farm and certified biodynamic Market Garden shape those menus, part of a sustainability record that includes zero waste to landfill.
+Skye Gyngell, Heckfield's culinary director, sets menus across Marle, which seats 85 inside and 40 on the terrace and is available with exclusive use only, Hearth, built around open-fire cooking, and the Dining Room, which seats 26. The estate's certified organic Home Farm and certified biodynamic Market Garden shape those menus, and Heckfield reports a sustainability record that includes zero waste to landfill.
 
 **Role:** Recommendation
 
@@ -262,7 +264,7 @@ Babylonstoren serves wedding dinners as family-style platters drawn from its own
 
 ### H2 7. The House Rules That Shape a Wedding Weekend Venue
 
-House rules shape a wedding weekend as firmly as the setting, so read end times, minimum stays and seasonal limits before you plan a single event. Together they tell you when each night ends, how long the party must stay and which spaces suit which months.
+End times, minimum stays and seasonal limits decide what each day of a wedding weekend can hold, so read them before you plan a single event. Together they tell you when each night ends, how long the party must stay and which spaces suit which months.
 
 **WW thread:** /wonderland-studio and /expert-advice/wedding-day-timeline (planning the days around the rules) · **Links:** /expert-advice/the-morning-after-wedding-trend-couples-are-adding-to-their-wedding-weekend (anchor "a gathering the morning after"; not in the paragraph after the brunch link)
 
@@ -274,33 +276,35 @@ Babylonstoren's evening functions end at midnight and can run to 02h00 at an add
 
 #### H3 7.2. Minimum Stays and Seasonal Spaces
 
-Heckfield Place sets a two-night minimum for exclusive use, which holds a welcome dinner, a wedding day and a farewell lunch within one stay. Its Pavilion by the Lower Lake, licensed for ceremonies of up to 30 guests, is best suited to spring, summer and autumn, while Babylonstoren's high season runs from September to April.
+Heckfield Place sets a two-night minimum for exclusive use, which holds a welcome dinner, a wedding day and a farewell lunch within one stay. Its Pavilion by the Lower Lake, licensed for ceremonies of up to 30 guests, is best suited to spring, summer and autumn.
 
 ---
 
 ### H2 8. Questions to Ask a Wedding Weekend Venue Before You Sign
 
-Before you sign, put each of the five tests in writing to the venue's events team and ask for dated answers. The replies give you a fair way to compare every property on your shortlist.
+Before you sign, ask each events team to confirm in writing which year's terms apply to your dates, because operators' own documents do not always agree. Heckfield's exclusive-use tiers sit in its 2025 events brochure, and Babylonstoren's wedding guide and website differ on which accommodation its packages include.
 
-1. Is full exclusive use offered, and what stays open to the public under each option?
-2. What is the minimum stay, and does it change by season?
-3. How many guests can each setting hold, and what is the wet-weather alternative for each?
-4. How many guests can sleep on the property, and where do the rest stay?
-5. How are guests moved between settings, and from the nearest airport?
-6. Which dining rooms can cater on the same weekend, and which can be taken privately?
+1. Which year's terms apply to our dates, and will you confirm them in writing?
+2. Which rooms, houses and spaces are included, by name?
+3. What stays open to other guests or members under our option?
+4. Can the legal ceremony take place on site, and if not, where?
+5. Which suppliers must you approve, and is an outside planner required?
+6. Which dietary requirements and family needs can the kitchen and accommodation meet?
 7. When must music end, and can that be extended?
-8. Can the legal ceremony take place on site, and if not, where?
-9. Which suppliers must the venue approve, and is an outside planner required?
 
-**WW thread:** /destination-wedding-guide and /venue (shortlisting tools) · **Note for review:** this list recaps the tests in checklist form for the Selection stage; cut if the ED finds it repetitive.
+**WW thread:** /destination-wedding-guide, /destination-wedding-quiz and /venue (shortlisting tools) `[TO VERIFY: /destination-wedding-quiz returns 200]` · **ED decision:** kept and rebuilt around conflicting operator documents; no question restates H2 2 to H2 7.
 
 ---
 
 ### Closing H2. Finding Your Destination Wedding Venue With Wedded Wonderland
 
-A destination wedding venue earns its place when it can hold every occasion and every guest without the celebration scattering across town. The four properties here show how differently venues draw the lines on privacy, beds and movement, which is why we read the terms as closely as the setting. Through our destination wedding packages and Wedded Concierge, we shortlist properties against these tests, put the questions to each events team and shape the days around the answers.
+A destination wedding venue earns its place on the terms it will put in writing, covering how much of the property is yours, where each guest sleeps and how the nights end. The four properties here show how differently venues draw the lines on privacy, beds and movement, which is why we read the fine print as closely as the setting.
 
-**WW thread:** /destination-wedding-packages, /wonderland-concierge, /plan-your-destination-wedding, /destinations · **Links:** /expert-advice/which-are-the-best-tuscany-wedding-venues (anchor "Tuscan venues suited to a weekend"), /destinations/europe/italy/lake-como-wedding, /destinations/europe/italy/amalfi-coast-wedding
+Through our destination wedding packages and Wedded Concierge, we shortlist properties against these tests, put the questions to each events team and shape the days around the answers. For many couples the weekend runs straight into the honeymoon, which our destination honeymoon packages plan from the same base.
+
+`[TO VERIFY: what /destination-wedding-packages covers, on the live page, before this paragraph describes it]`
+
+**WW thread:** /destination-wedding-packages, /destination-honeymoon-packages, /wonderland-concierge, /plan-your-destination-wedding, /destinations · **Links:** /expert-advice/which-are-the-best-tuscany-wedding-venues (anchor "Tuscan venues suited to a weekend"), /destinations/europe/italy/lake-como-wedding, /destinations/europe/italy/amalfi-coast-wedding
 
 ---
 
@@ -308,10 +312,9 @@ A destination wedding venue earns its place when it can hold every occasion and 
 - Exclusive use: the right to have a venue, or a defined part of it, for your party alone on the dates booked.
 - Full buy-out: booking every room and space a property offers, so no other guests share it.
 - Partial buy-out: booking a defined block of rooms and spaces while the rest of the property stays open.
-- Venue precinct: the event spaces and the areas around them reserved for one celebration at a time.
 - Minimum stay: the number of nights a venue requires for an exclusive-use booking.
 - Borgo: a small historic Italian village or hamlet, often restored as a single estate.
-- Licensed space: in England, a room approved for a legally binding ceremony.
+- Licensed space: in England and Wales, a room within approved premises where a civil ceremony can legally take place. `[TO VERIFY: against GOV.UK, with a last-verified date]`
 
 ### Frequently Asked Questions
 1. **How do you host guests who cannot sleep at the venue?** Direction: rooms the venue arranges nearby (Heckfield's 28 rooms at Wellington Lodge at Highfield), transfers timed to each occasion, and how Wedded Concierge arranges their stays. No distances until verified.
@@ -324,12 +327,12 @@ A destination wedding venue earns its place when it can hold every occasion and 
 ### Wedded Concierge CTA block
 TITLE: PLANNING A WEDDING WEEKEND ABROAD?
 Let our Wedded Concierge shape your private wedding weekend.
-Find the estate, hotel or borgo that can host every occasion and every guest, with settings, stays and transfers arranged around your days.
+Shortlist the estate, hotel or borgo for your welcome dinner, ceremony and day-after lunch, with buy-out terms, guest rooms and transfers confirmed in writing.
 
 ### Sources
 1. Axios, Sami Sparber, "You're cordially invited to my three-day wedding", 18 October 2026. https://www.axios.com/2026/10/18/wedding-trends-2027
 2. Virtuoso, "The 2027 Luxe Report", September 2026. https://staticprost.blob.core.windows.net/division-marketing/PR/2027%20Luxe%20Report/2027%20Virtuoso%20Luxe%20Report%20Global%20Report_FINAL_.pdf
-3. Vogue, Liam Hess, "Inside Dove Cameron and Damiano David's Timeless Wedding at a Medieval Tuscan Estate", 29 September 2026. https://www.vogue.com/slideshow/dove-cameron-and-damiano-david-wedding `[pending your decision]`
+3. Vogue, Liam Hess, "Inside Dove Cameron and Damiano David's Timeless Wedding at a Medieval Tuscan Estate", 29 September 2026. https://www.vogue.com/slideshow/dove-cameron-and-damiano-david-wedding `[pending your decision; ED recommends cutting, see H3 1.1]`
 4. Heckfield Place, Events 2025 brochure, last verified 21 October 2026. https://www.heckfieldplace.com/media/4mtjdyod/heckfieldplace_events2025.pdf
 5. Rosewood Hotels, Castiglion del Bosco, hotel, weddings and event spaces pages, last verified 21 October 2026. https://www.rosewoodhotels.com/en/castiglion-del-bosco/events/weddings
 6. Rocco Forte Hotels, Villa Igiea weddings page, last verified 21 October 2026. https://www.roccofortehotels.com/hotels-and-resorts/villa-igiea/weddings/
@@ -343,8 +346,10 @@ Operator documents appear in Sources only; properties are named without links in
 
 | Gap in ranking pages | Where we fill it |
 |---|---|
-| No definition of exclusive use versus partial buy-out, minimum nights or shared facilities | H2 2, Glossary, FAQ 4 |
-| No count of settings per occasion, no wet-weather alternative | H2 3, FAQ 3 |
+| No definition of exclusive use versus partial buy-out, minimum nights or shared facilities | H2 2, Glossary, FAQ 3 |
+| No count of settings per occasion, no wet-weather alternative | H2 3 |
+| Operator documents that disagree on terms | H2 8 |
+| Dietary and family needs at a single venue | FAQ 4 |
 | No relation of rooms to guest list, overflow stays or transfers | H2 4, H2 5, FAQ 1 |
 | Legal ceremony absent | FAQ 2 (links out) |
 | US-regional, listing-led, undated | Four properties across three countries, every fact dated to an operator document |
@@ -355,22 +360,22 @@ Operator documents appear in Sources only; properties are named without links in
 | H2 | Leads toward |
 |---|---|
 | 1 How to Choose a Venue for a Wedding Weekend | /plan-your-destination-wedding |
-| 2 Exclusive Use and Partial Buy-Outs | /destination-wedding-packages |
-| 3 A Setting for Each Occasion | /destinations/europe/italy/tuscany-wedding, /destinations/europe/italy |
+| 2 Exclusive Use and Partial Buy-Outs | /destination-wedding-packages (service scope to verify) |
+| 3 A Setting for Each Occasion | /expert-advice/wedding-day-timeline |
 | 4 Where Every Guest Sleeps | /destination-wedding-packages |
 | 5 Moving Guests Between Events | /wonderland-concierge |
 | 6 Dining Rooms and Kitchens | /wonderland-concierge |
 | 7 House Rules | /wonderland-studio, /expert-advice/wedding-day-timeline |
-| 8 Questions to Ask | /destination-wedding-guide, /venue |
-| Closing | /destination-wedding-packages, /wonderland-concierge, /plan-your-destination-wedding, /destinations |
+| 8 Questions to Ask | /destination-wedding-guide, /destination-wedding-quiz, /venue |
+| Closing | /destination-wedding-packages, /destination-honeymoon-packages, /wonderland-concierge, /plan-your-destination-wedding, /destinations |
 
 ## 6. Links planned
 
-**Internal (each article at most twice, never consecutive paragraphs; ops to confirm 200s):** /plan-your-destination-wedding (H2 1, closing), /destination-wedding-packages (closing), /wonderland-concierge (closing, CTA), /wonderland-studio (H2 7, FAQ 6), /expert-advice/wedding-day-timeline (H2 7), /destination-wedding-guide (H2 8), /venue (H2 8), /destinations (closing), /destinations/europe (H2 2), /destinations/europe/italy (H3 3.2), /destinations/europe/italy/tuscany-wedding (H3 3.1), /destinations/europe/italy/lake-como-wedding and /destinations/europe/italy/amalfi-coast-wedding (closing), /a-wedding-weekend-itinerary-for-guest-experience (H3 1.2, once), /expert-advice/what-is-a-tuscany-wedding-actually-like (H3 1.1), /expert-advice/do-you-need-a-wedding-welcome-party and /how-to-turn-your-destination-wedding-event-into-an-experience (H2 3), /expert-advice/can-you-get-married-in-a-tuscan-villa (H2 4), /the-art-of-recovery-brunch-gen-z-approved-way and /expert-advice/rehearsal-dinner (H2 6), /expert-advice/the-morning-after-wedding-trend-couples-are-adding-to-their-wedding-weekend (H2 7), /expert-advice/which-are-the-best-tuscany-wedding-venues (closing), /expert-advice/getting-married-in-italy-the-complete-legal-guide-for-destination-couples, /trending/angel-dei-said-i-do-again and /expert-advice/which-amalfi-coast-venues-can-you-marry-in (FAQ 2). All internal URLs checked against the live sitemap by ww-publishing-ops, 21 Oct 2026; see `photos.md` for the change log.
+**Internal (each article at most twice, never consecutive paragraphs; ops to confirm 200s):** /plan-your-destination-wedding (H2 1, closing), /destination-wedding-packages (closing), /wonderland-concierge (H2 5, closing, CTA), /wonderland-studio (H2 7, FAQ 6), /expert-advice/wedding-day-timeline (H2 3, H2 7), /destination-wedding-guide (H2 8), /destination-wedding-quiz (H2 8, to verify), /venue (H2 8), /destination-honeymoon-packages (closing), /destinations (closing), /destinations/europe (H2 2), /destinations/europe/italy (H3 3.2), /destinations/europe/italy/tuscany-wedding (H3 3.1), /destinations/europe/italy/lake-como-wedding and /destinations/europe/italy/amalfi-coast-wedding (closing), /a-wedding-weekend-itinerary-for-guest-experience (H3 1.2, once), /expert-advice/what-is-a-tuscany-wedding-actually-like (H3 1.1), /expert-advice/do-you-need-a-wedding-welcome-party and /how-to-turn-your-destination-wedding-event-into-an-experience (H2 3), /expert-advice/can-you-get-married-in-a-tuscan-villa (H2 4), /the-art-of-recovery-brunch-gen-z-approved-way and /expert-advice/rehearsal-dinner (H2 6), /expert-advice/the-morning-after-wedding-trend-couples-are-adding-to-their-wedding-weekend (H2 7), /expert-advice/which-are-the-best-tuscany-wedding-venues (closing), /expert-advice/african-honeymoons-private-safari-and-island-escapes-by-season (H3 3.3, to verify), /expert-advice/getting-married-in-italy-the-complete-legal-guide-for-destination-couples, /trending/angel-dei-said-i-do-again and /expert-advice/which-amalfi-coast-venues-can-you-marry-in (FAQ 2). All internal URLs checked against the live sitemap by ww-publishing-ops, 21 Oct 2026; see `photos.md` for the change log.
 
 **Not linked:** /destinations/africa (Google-hidden), any business or redirect page, /why-wedding-venue-spend-is-soaring... (cost-led; ops to add a link from it to this piece instead), /venue listings for unassessed properties (held for ED), the weekend style cluster.
 
-**External:** Axios; Virtuoso PDF; Vogue (pending). No competitor citations.
+**External:** Axios; Virtuoso PDF; Vogue (pending; ED recommends an official Instagram embed or option B instead). No competitor citations.
 
 **Reciprocal links for ops:** from the itinerary page, the "event as an experience" page and the venue-spend page to this piece.
 
@@ -395,4 +400,5 @@ Structured data for ops: Article, FAQPage, BreadcrumbList. Not ItemList, not How
 - Colons: none in summary prose; used only in the Glossary format the skill requires and in the meta title.
 - Wedded Wonderland appears in the deck, inside the first 100 words.
 - Swap test: every property H3 rests on details only that property has (tier names, room names, capacities, estate size, chef, house rules); swap the name and the sentence fails. The H2 lead summaries state the test itself and are meant to apply to any venue; the property evidence beneath each one carries the distinctiveness.
+- Re-run after ED review (21 Oct 2026) on every changed line (deck, H2 1, H3 1.1, H3 2.1, H2 3, H3 3.2, H3 3.3, H3 4.1, H2 5, H3 5.1, H3 5.2, H3 6.1, H2 7, H3 7.2, H2 8, closing, Glossary, FAQ, CTA): no banned words, no em dashes or exclamation marks, no "X, not Y" or "from X to Y" reframe, no "the art of", no unsupported superlative ("put first" removed). The ED's closing opener used a colon; rewritten colon-free with the same content. Swap test: the H2 1 close, H2 5 lead and closing opener now name a specific test or service; the new H2 8 summary and H3 3.3 line rest on Heckfield's and Babylonstoren's own documents and location. "Every occasion and every guest" now appears only in H2 1 (the H1 carries "every occasion").
 - Gates: no Castiglion del Bosco capacity, terms, legal status, transfers or guest lodging; no Palazzo dei Priori; no Heckfield room count or curfew; Heckfield tiers dated to the 2025 brochure; no Villa Igiea buy-out claim, Belmonte figures or Dua Lipa; no Babylonstoren package contents, room total, transfer time or prices; no The Knot, Esther Lee or cost data; no Italian legal rules or fees.

@@ -93,7 +93,7 @@ Listing stub: `knowledge/listings/villa-igiea.md`
 
 **Verified (Rocco Forte official weddings page, 21 Oct 2026)** https://www.roccofortehotels.com/hotels-and-resorts/villa-igiea/weddings/
 - 72 guest rooms and 28 suites across the main building and the adjacent Palazzina Donna Franca.
-- Seven reception rooms. Published capacities: Sala Basile (seated 80, standing 140), Terrazza Mare (standing 400), Green Room (seated 22), Belle Époque Ballroom (seated 200, standing 300), Florio Restaurant (outdoor seated 70, standing 100; indoor seated 80, standing 150), Green Terrace (seated 22), Salone Belmonte in Palazzina Donna Franca (stated as seated 300, standing 200; the higher seated figure looks like an inversion, so confirm). Garden temple; arrival by boat suggested.
+- Seven reception rooms. Published capacities: Sala Basile (seated 80, standing 140), Terrazza Mare (standing 400), Green Room (seated 22), Belle Époque Ballroom (seated up to 180 per the official Ballroom page; 200 is the theatre-style figure; standing 300 on the weddings page, 280 on the floor-plan page, conflict open. Corrected 21 Oct 2026 after ww-publishing-ops check), Florio Restaurant (outdoor seated 70, standing 100; indoor seated 80, standing 150), Green Terrace (seated 22), Salone Belmonte in Palazzina Donna Franca (stated as seated 300, standing 200; the higher seated figure looks like an inversion, so confirm). Garden temple; arrival by boat suggested.
 - The page says booking the rooms around Salone Belmonte "ensures privacy and exclusivity". Whole-hotel exclusive use is **not stated**.
 - Food overseen by Fulvio Pierangelini; Irene Forte Spa. Events: events.villaigiea@roccofortehotels.com, +39 0916312 077.
 

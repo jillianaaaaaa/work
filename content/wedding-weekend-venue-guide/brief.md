@@ -31,7 +31,8 @@ High-net-worth couples planning a destination wedding for roughly 40 to 150 gues
 | three day wedding, multi day wedding, whole weekend wedding venue | Supporting | Key Takeaways and body copy, natural use only |
 | What should you ask a venue before booking a multi-day wedding? | Question | H2 8 "Questions to Ask a Wedding Weekend Venue Before You Sign" |
 | What does exclusive use mean at a wedding venue? | Question | Glossary (answered in H2 2 body; not repeated in FAQ) |
-| How far apart can wedding weekend events be? | Question | FAQ 1 |
+| How far apart can wedding weekend events be? | Question | H2 5 (moved after ED review) |
+| How do you host guests who cannot sleep at the venue? | Question | FAQ 1 |
 | Where does the legal ceremony fit in a destination wedding weekend? | Question | FAQ 2 |
 | Can you book a whole venue for a wedding weekend? / How many guest rooms should a wedding weekend venue have? | Question | Answered in H2 2 and H2 4; dropped from FAQ so the FAQ does not repeat the body (see outline note) |
 | wedding weekend itinerary; villa wedding italy | **Excluded** | Not in H1, H2s or meta. "Itinerary" kept out of every heading |
@@ -48,10 +49,10 @@ Full structure with final-voice summaries in `outline.md`. In brief:
 - H2 2 Exclusive Use and Partial Buy-Outs at a Wedding Weekend Venue (Heckfield tiers, Villa Igiea by the room, Babylonstoren by the precinct)
 - H2 3 A Setting for Each Occasion of a Multi-Day Wedding (Castiglion del Bosco, Villa Igiea, Babylonstoren in sequence)
 - H2 4 Where Every Guest Sleeps at a Wedding Weekend Venue (Heckfield beds against guests, Babylonstoren partial accommodation)
-- H2 5 Moving Guests Between Events at a Wedding Weekend Venue (Castiglion estate vehicles, arrival)
+- H2 5 Moving Guests Between Events at a Wedding Weekend Venue (Castiglion distances across 2,000 ha, arrival; Wedded Concierge transfers in the copy)
 - H2 6 Dining Rooms and Kitchens at a Wedding Weekend Venue (Heckfield, Babylonstoren)
 - H2 7 The House Rules That Shape a Wedding Weekend Venue (end times, minimum stays, seasonal spaces)
-- H2 8 Questions to Ask a Wedding Weekend Venue Before You Sign (numbered)
+- H2 8 Questions to Ask a Wedding Weekend Venue Before You Sign (seven numbered questions built on conflicting operator documents; ED decision 21 Oct 2026)
 - Closing H2 Finding Your Destination Wedding Venue With Wedded Wonderland
 - Glossary (information-heavy topic), Frequently Asked Questions (six), Wedded Concierge CTA block, Sources
 - CTA direction: venue, region and logistics of hosting a weekend at one property
@@ -73,9 +74,9 @@ Schema to flag for ops: Article, FAQPage, BreadcrumbList. Not ItemList (properti
 | Castiglion settings | Castle Ruins, San Michele Arcangelo (Lorenzetti frescoes), Capanna Vineyard, Il Granaio, villas, Campo del Drago (Michelin-starred), Osteria La Canonica, winery | research 3.1 | Verified |
 | Castiglion scale and movement | 2,000 ha (5,000 acres), 42 suites and eleven villas, each villa with a 4x4 | research 3.1 | Verified |
 | Castiglion exclusive use | "exclusive use of the whole estate" for large parties | research 3.1 | Verified as the operator's offer only. Terms, capacity, minimum stay, church legal status, airports: open (Q1) |
-| Villa Igiea | 72 rooms + 28 suites; seven reception rooms; capacities (excluding Salone Belmonte); privacy by booking rooms around Salone Belmonte; Pierangelini; arrival by boat suggested | research 3.3 | Verified. Whole-hotel buy-out and Belmonte capacities open (Q3). Dua Lipa not used |
-| Babylonstoren | Old Cellar 100 long table, White Studio dessert, Wheat Barn dancing; one function at a time; ceremonies under the oaks or House of Shadows (extra fee); midnight end, 02h00 at an additional fee; no outdoor dance floor unless all accommodation taken; family-style garden platters; rehearsal dinner on request; high season Sep to Apr | research 3.4; listing | Verified. Which houses packages include, total rooms, transfer time open (Q4). No prices, no fee figures |
-| Legal ceremony | Heckfield six licensed spaces (English law) and nearby church; Italy via links only | research 2 | Verified for Heckfield; Italy rules not restated (gate 6) |
+| Villa Igiea | 72 rooms + 28 suites; seven reception rooms; capacities (excluding Salone Belmonte; Belle Époque Ballroom 180 seated per its floor-plan page, 200 being theatre-style); privacy by booking rooms around Salone Belmonte; Pierangelini; arrival by boat suggested | research 3.3 | Verified. Whole-hotel buy-out and Belmonte capacities open (Q3). Dua Lipa not used |
+| Babylonstoren | No strictly halaal or kosher catering; adults-only Farmhouse (2026-27 guide, FAQ 4). Old Cellar 100 long table, White Studio dessert, Wheat Barn dancing; one function at a time; ceremonies under the oaks or House of Shadows (extra fee); midnight end, 02h00 at an additional fee; no outdoor dance floor unless all accommodation taken; family-style garden platters; rehearsal dinner on request; high season Sep to Apr | research 3.4; listing | Verified. Which houses packages include, total rooms, transfer time open (Q4). No prices, no fee figures |
+| Legal ceremony | Heckfield six spaces licensed for ceremonies (English law); Italy via links only | research 2 | Six licensed spaces verified. "Nearby church" and "notary" cut until ww-research-intelligence re-reads the Events 2025 PDF and checks GOV.UK (ED change 5); England and Wales licensing definition for the Glossary also to verify. Italy rules not restated (gate 6) |
 | Concierge evidence | Are clients asking for three-day stays and buy-outs? | Q8 | **Open: Jillian** (placeholder in H2 1) |
 
 ## 7. Venues, brands and people featured
@@ -102,22 +103,23 @@ Schema to flag for ops: Article, FAQPage, BreadcrumbList. Not ItemList (properti
 
 **Internal** (ops to confirm each returns 200; none are business, redirect or hidden pages)
 - Hub up: /plan-your-destination-wedding (H2 1, closing), /destination-wedding-guide (H2 8), /destinations (closing)
-- Money and services: /destination-wedding-packages (closing), /wonderland-concierge (closing, CTA), /wonderland-studio and /wedding-day-timeline (H2 7, FAQ 6) `[TO VERIFY: /wedding-day-timeline live URL]`, /venue (H2 8)
-- Regional: /tuscany-wedding (H2 3), /europe/italy (H2 3), /europe (H2 2, Heckfield; no England hub exists), /lake-como-wedding and /italy/amalfi-coast-wedding (closing). No Africa hub: /destinations/africa is Google-hidden and must not be linked
+- Money and services: /destination-wedding-packages (closing; H2 2 thread only once the live page confirms packages cover venue terms) `[TO VERIFY: service scope]`, /destination-honeymoon-packages (closing), /wonderland-concierge (H2 5, closing, CTA), /wonderland-studio (H2 7, FAQ 6), /expert-advice/wedding-day-timeline (H2 3 thread, H2 7), /destination-wedding-quiz (H2 8) `[TO VERIFY: returns 200]`, /venue (H2 8)
+- Regional (canonical /destinations/ paths per ww-publishing-ops): /tuscany-wedding (H3 3.1), /europe/italy (H3 3.2), /europe (H2 2, Heckfield; no England hub exists), /lake-como-wedding and /italy/amalfi-coast-wedding (closing). No Africa hub: /destinations/africa is Google-hidden and must not be linked
 - Siblings: /a-wedding-weekend-itinerary-for-guest-experience (once, H2 1), /how-to-turn-your-destination-wedding-event-into-an-experience (H2 3), /do-you-need-a-wedding-welcome-party (H2 3), /expert-advice/rehearsal-dinner (H2 6), /the-art-of-recovery-brunch-gen-z-approved-way (H2 6, anchor without "the art of"), /the-morning-after-wedding-trend-couples-are-adding-to-their-wedding-weekend (H2 7), /expert-advice/can-you-get-married-in-a-tuscan-villa (H2 4), /expert-advice/what-is-a-tuscany-wedding-actually-like (H2 1), /which-are-the-best-tuscany-wedding-venues (closing)
-- Legal ceremony (FAQ 2): Italy legal guide, Angel Dei "Second Wedding Era", Amalfi venues guide `[TO VERIFY: all three URLs]`
+- Legal ceremony (FAQ 2): Italy legal guide, Angel Dei "Second Wedding Era", Amalfi venues guide (URLs confirmed live by ww-publishing-ops, 21 Oct 2026)
+- Honeymoon cluster: African honeymoons article from H3 3.3 (anchor "a safari or island honeymoon after the Winelands") `[TO VERIFY: returns 200]`
 - Listings down (/venue/villa-deste and others tagged multi-day): **held** until ww-editorial-director assesses them
 
 **External**
 - Axios, 18 Oct 2026 (trend figure)
 - Virtuoso 2027 Luxe Report primary PDF (demand)
-- Vogue, 29 Sep 2026 (only if the editor accepts a peer-publication citation; otherwise cut the hook to the operator fact that the estate hosts weddings)
+- Vogue, 29 Sep 2026: ED recommends not citing (it ranks on this SERP). Jillian to choose an official Instagram embed by the couple or Alessandra Grillo, or option B (cut the couple; open on Axios's hospitality point and the estate's exclusive-use offer)
 - Operator documents in Sources only; properties named without links in body (skill rule)
 - No The Knot, Business Wire, Inside Weddings or any competitor
 
 ## 10. Visuals
 
-Five slots, marked in `outline.md`, for ww-publishing-ops to fill with two best-bet operator images each and "Source: [Official name]". Hero (a weekend setting at a featured property); Heckfield house and estate; Castiglion del Bosco borgo or church; Villa Igiea ballroom or sea terrace; Babylonstoren Old Cellar long table or garden. No Vogue or press photography of the Cameron and David wedding (media-outlet rights); an official Instagram embed only if one exists and is cited.
+Five slots, marked in `outline.md`, for ww-publishing-ops to fill with two best-bet operator images each and "Source: [Official name]". Hero (a weekend setting at a featured property); Heckfield house and estate; Castiglion del Bosco borgo or church; Villa Igiea ballroom or sea terrace; Babylonstoren Old Cellar long table or garden. No Vogue or press photography of the Cameron and David wedding (media-outlet rights); an official Instagram embed only if one exists and is cited. All five slots filled by ww-publishing-ops on 21 Oct 2026 (see `photos.md`); hero options are Heckfield and Babylonstoren only, so the hero does not lean on the celebrity hook (ED change 9).
 
 ## 11. Not in scope
 
