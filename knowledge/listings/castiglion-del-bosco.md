@@ -25,8 +25,8 @@ nearest_airport: { value: "", travel_time: "", source: "", verified: "" }
 classification: "Specialist"   # ww-editorial-director, 2026-10-21; article role: Example of a principle (settings per occasion, movement across a large estate, seasonal hook); not a recommendation
 suited_to: "A Tuscan estate weekend where each occasion has its own setting within one borgo (church, castle ruins, vineyard, greenhouse, two restaurants) and guests move between them by estate 4x4; guest numbers to be confirmed."
 classification_reason: "Strong on design, distinctiveness and local relevance, and Signature on paper, but evidence is Present: no capacity, buy-out terms, minimum stay or legal-ceremony status is published, so it cannot be ranked Signature or recommended for a guest count until the venue answers Q1. Reassess for Signature on receipt."
-commercial_relationship: none   # none known as at 2026-10-21; Jillian to confirm
-disclosure_required: false
+commercial_relationship: "Indirect, operator level: Wedded Wonderland lists Rosewood Elite as a preferred hotel programme (weddedwonderland.com, /travel) and the hotel is a Virtuoso property (virtuoso.com/travel/luxury-hotels/6404908). Property-level Rosewood Elite participation not confirmed. Private contracts not checked. Verified 2026-10-21."
+disclosure_required: true
 related_dossier: "none yet (knowledge/dossiers/europe/italy/tuscany.md to be built)"
 last_verified: 2026-10-21
 next_review: 2027-10-21

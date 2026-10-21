@@ -190,3 +190,72 @@ Listing stub: `knowledge/listings/four-seasons-resort-lanai.md`
 - Listing record stubs (facts and record fields only, editorial copy marked TODO) created in `knowledge/listings/`: `castiglion-del-bosco.md`, `heckfield-place.md`, `villa-igiea.md`, `babylonstoren.md`, `san-ysidro-ranch.md`, `kokomo-private-island.md`, `four-seasons-resort-lanai.md`.
 - No dossiers exist yet for Tuscany, Sicily, Hampshire, Western Cape, Fiji or Hawaii. The Virtuoso destination rankings (T7, T8) and the Laucala closure belong in the Italy, South Africa and Fiji country dossiers when they are built.
 - Correction to the intelligence brief record: the Virtuoso primary PDF is now read (brief section 4 listed it as unread). Laucala's closure should be noted against the Fiji honeymoon refresh in brief section 3.
+
+---
+
+## Pre-draft verification, 21 Oct 2026
+
+**Owner:** ww-research-intelligence · **Method:** Firecrawl search and scrape only (curl to weddedwonderland.com, its CDN and vogue.com is blocked by the session proxy, so nothing was fetched outside Firecrawl). All checks dated 2026-10-21.
+
+### A. Commercial relationships (standing ruling 21 Oct 2026: the team establishes this)
+
+**What Wedded Wonderland itself publishes (primary, own pages):**
+- Homepage, "Our preferred hotel programmes": Virtuoso, Four Seasons Preferred Partner, Rosewood Elite, Hyatt Privé, Marriott STARS, Hilton Impresario, Mandarin Oriental Fan Club. https://weddedwonderland.com/
+- /travel, "Hotels that know us": Virtuoso ("Global luxury network"), Four Seasons ("Preferred Partner"), **Rosewood ("Elite")**, Hyatt, Marriott, Hilton, Accor, IHG, Belmond, The Peninsula, Mandarin Oriental, Shangri-La. The page says "We hold preferred-partner relationships with hotels ... On eligible bookings, that access comes to you as added value." Rocco Forte is not named. https://weddedwonderland.com/travel
+- WW job advertisement (Luxury Travel Advisor, South Africa): "Perks for you and your clients through Virtuoso and our preferred partner programs with Four Seasons, Marriott ..." https://app.scovai.com/jobs/c5445d69-c917-4282-8228-6e9c5f874747 (other job ads also name Rosewood among perks; search excerpt only).
+- /destination-wedding-packages: nine packaged properties (Akohara Buahan, Monarto Safari Lodge, Palm Island Suites Santorini, Regent Bali Canggu, SO/ Maldives, The Apurva Kempinski, The Culture Samui, The Shore at Katathani, Tokoriki). None of the four properties appears. https://weddedwonderland.com/destination-wedding-packages
+- Wedded World Melbourne (7 to 8 Nov 2026) named partners: Steven Khalil, Vera Wang, BERTA, Nicole + Felicia, Alin Le'Kal, Raffaele Ciuca, Sposa Bride, Jimket Events, Styled by Valentina, Prolight Styling, 1 Hotel Melbourne, Hyperia Media, Encore; giveaway Banyan Tree Phuket. None of the four properties or operators. https://weddedwonderland.com/wedded-world/melbourne
+- Get Wedded magazines index (Australia, Dubai, Fiji, Qatar, Sydney mini guide): https://weddedwonderland.com/magazine. Get Wedded in the UK launch page names The Connaught, Boodles, Lillian Khallouf, Amie Bone; no Heckfield. https://weddedwonderland.com/get-wedded-in-the-uk
+- Qatar Wedding Showcase article lists a "Hard Hat Experience at the Rosewood" (search excerpt; the property is presumably Rosewood Doha; full page timed out, not read). https://weddedwonderland.com/the-qatar-wedding-showcase-a-celebration-of-global-elegance-and-strategic-vision
+- Existing WW editorial mentioning the properties (editorial, no partner labelling seen in excerpts): Heckfield in /destination-wedding-venues-voted-by-instagram and /glamorous-uk-wedding-venues; Castiglion del Bosco in /trending/10-details-we-love-about-dove-cameron-and-damiano-davids-wedding, /expert-advice/12-best-tuscany-vineyard-wedding-venues, /celebration-ideas/50th-wedding-anniversary, /destinations/europe/italy/tuscany-wedding, /10-wedding-venues-that-capture-dua-lipa-euro-summer-wedding-vibe; Villa Igiea in the Dua Lipa venues piece. Babylonstoren: no WW page found.
+- Venue and vendor directories: a site search for all four names in /venue and /vendor returned no WW listing.
+- Instagram (search excerpts): WW posts mention Castiglion del Bosco and Villa Igiea in celebrity-wedding coverage; no "paid partnership" label visible in excerpts.
+
+**Public operator sources (Virtuoso, primary for programme membership):**
+- Heckfield Place is a Virtuoso hotel: https://www.virtuoso.com/hotels/15776341/heckfield-place
+- Villa Igiea, a Rocco Forte Hotel, is a Virtuoso hotel: https://www.virtuoso.com/travel/luxury-hotels/15974862/villa-igiea-a-rocco-forte-hotel
+- Castiglion del Bosco, A Rosewood Hotel, is a Virtuoso hotel: https://www.virtuoso.com/travel/luxury-hotels/6404908/rosewood-castiglion-del-bosco
+- Babylonstoren: no Virtuoso hotel page; appears only as a stop inside third-party Virtuoso tours.
+
+| Property | Finding | Evidence | Disclosure required |
+|---|---|---|---|
+| Castiglion del Bosco (Rosewood) | **Relationship found (operator level).** WW publicly lists Rosewood Elite as a preferred programme and Rosewood as a travel partner; the hotel is also a Virtuoso property. Whether Castiglion del Bosco itself participates in Rosewood Elite was not confirmed on a Rosewood page. | /, /travel, Virtuoso page above | **Yes** |
+| Heckfield Place | **Indirect relationship found.** Virtuoso hotel; WW books with perks through Virtuoso. No direct partnership, listing, advertising or event role found. | Virtuoso page, /, /travel, job ad | **Yes** (booking-relationship line) |
+| Villa Igiea (Rocco Forte) | **Indirect relationship found.** Virtuoso hotel. Rocco Forte not named in WW's programmes. No direct partnership found. | Virtuoso page, /, /travel | **Yes** (booking-relationship line) |
+| Babylonstoren | **None found.** Not in Virtuoso hotel listings, WW directories, packages, Wedded World or magazines. | All of the above | **No** |
+
+**Recommendation for ww-editorial-director and ww-publishing-ops:** one disclosure line near the Concierge CTA, for example that Wedded Wonderland's travel service holds preferred-partner relationships (including Virtuoso and Rosewood Elite) and may earn from bookings at some properties mentioned. Classification is unaffected (taste system rule). Also note: the trend facts T4 to T8 cite the Virtuoso Luxe Report; WW is a Virtuoso-affiliated seller, so the same line covers it. Four Seasons (Lanai, if it stays in the piece) is a named WW preferred partner and needs the same treatment.
+
+**Not checked, so the conclusion is at medium confidence:** private contracts, commission or override agreements and the specific Virtuoso host-agency arrangement; Concierge or travel booking history with these properties; advertising or sponsored content outside the public site; the content of Get Wedded flipbook editions (not text-searchable); the 28 "Trusted By" partner logos on /travel and /destination-wedding-packages (images only, no alt text, CDN blocked); Instagram paid-partnership labels on individual posts; the Qatar showcase page in full. A "none found" for Babylonstoren means none found publicly, not a confirmed absence.
+
+### B. Operator PDFs (official and latest)
+
+| PDF | Linked from live official page? | Version | Latest? |
+|---|---|---|---|
+| Heckfield `heckfieldplace_events2025.pdf` | Yes, /plan-an-event (with `heckfield-place-weddings-2023.pdf`) | "Events 2025" (document title heckfield-place-events-2025, 17 pp) | **Yes, latest linked edition.** An unlinked, undated `heckfield_events_brochure-updated.pdf` (15 pp) exists at https://www.heckfieldplace.com/media/v1wb2mut/heckfield_events_brochure-updated.pdf; it says "45 rooms in total" and carries the full church and notary sentence. It cannot be dated, so do not cite it over the 2025 edition. |
+| Heckfield 2022 brochure (airport time) | No, superseded | Nov 2022 | No. Use only for the Heathrow figure, labelled 2022, or drop. |
+| Babylonstoren `wedding-guide-2026-27-compressed.pdf` | Yes, /weddings | 2026-27 (prices inside labelled 2024/25, conflict already recorded) | **Yes.** Older 2024-25, 2022-23, 2021-22 guides are still hosted but unlinked. |
+| Four Seasons `MAN-Wedding-eBrochure-2024.pdf` | Yes, /lanai/weddings/planning/ (with `MAN-Event-Teaser-Brochure.pdf`, undated) | 2024 | **Yes, latest linked.** |
+| Virtuoso 2027 Luxe Report | Report publisher | Sep 2026 | Yes, current edition. |
+| Australian Embassy Rome "Marriage in Italy" | Not re-checked | Undated | Unconfirmed (Q7, out of scope today). |
+
+### C. Outline [TO VERIFY] items
+
+| Item | Status | Source and note |
+|---|---|---|
+| Q1 Castiglion del Bosco (capacity, buy-out terms, minimum stay, church legality, transfers) | **Still unconfirmed.** Weddings page re-read: "large wedding parties requiring exclusive use of the whole estate" and San Michele Arcangelo "provides a wedding ceremony location steeped in tradition". No capacity, minimum stay, legal status or transfer. Ask the estate. | https://www.rosewoodhotels.com/en/castiglion-del-bosco/events/weddings |
+| Q2 Heckfield (room count; 2025 tiers in 2027) | **Still unconfirmed.** Conflict widened: Events 2025 says 46 rooms and "45 bedrooms, including Church Lodge" for exclusive use; the undated brochure says "45 rooms in total"; Virtuoso says "46-room". 2027 applicability not published. Keep the room-count gate. | Events 2025 PDF; Virtuoso page |
+| Q3 Villa Igiea buy-out | **Verified.** "Host a private celebration at Palermo's most storied address. With exclusive use of Villa Igiea, enjoy elegant salons, gardens and seafront terraces ... A historic palazzo reimagined for unforgettable weddings and group events." Terms, minimum stay and guest numbers not stated. Salone Belmonte capacity inversion still unconfirmed. | https://www.roccofortehotels.com/meetings-events/buyouts/ (P) |
+| Q4 Babylonstoren (2027 inclusions, total rooms, airport transfer) | **Still unconfirmed.** /hotel, /faq and /map-directions gave no room total or airport time. Inclusion conflict unchanged. | babylonstoren.com pages above |
+| Heckfield church and registrar wording | **Verified, with a caution.** Events 2025 PDF lists "Notary services" and "Heckfield Church" as service items, and states "Six unique spaces at Heckfield are licensed for wedding ceremonies to include: The Assembly, the Dining Room, the Pavilion, the Glass House, Hearth and Marle". The full sentence "arranging a notary and ceremony at the nearby Heckfield Church" is only in the undated brochure. Safe wording: six spaces licensed for ceremonies; the team can arrange a ceremony at nearby Heckfield Church. Do not present the notary as the legal mechanism: in England a civil marriage on approved premises takes place before a superintendent registrar and registrar (GOV.UK, below). Whether Heckfield appears on the approved premises list was not checked. | Events 2025 PDF (P) |
+| GOV.UK definition of approved premises | **Verified.** Registrar General's guidance: approved premises regime lets "proceedings ... take place regularly in hotels, stately homes, civic halls, religious premises and similar built premises"; on approval, "Marriages in the presence of a superintendent registrar and registrar ... may take place in the room(s) shown on the plan of the built premises, and at locations within ... any linked outdoor areas". Approved premises list last updated 17 Oct 2025. Glossary wording: "Licensed space: in England and Wales, a room or linked outdoor area at approved premises where a civil marriage can take place before a superintendent registrar and registrar." | https://www.gov.uk/government/publications/guidance-on-registering-a-venue-for-civil-marriage-and-civil-partnership ; https://www.gov.uk/government/publications/civil-marriages-and-partnerships-approved-premises-list (read via Firecrawl search extract) |
+| /destination-wedding-packages scope | **Verified.** Nine named resorts in Asia, Greece, Maldives, Fiji, South Australia. Included: venue and date, a group room block, guest travel and transfers coordinated, on-the-ground planner, photography and styling, legal requirements. Guest accommodation, legal fees and extras paid separately. It does not cover exclusive-use terms at the article's properties, so copy must not imply it does. | https://weddedwonderland.com/destination-wedding-packages |
+| /destination-wedding-quiz | **Verified 200.** | Firecrawl statusCode 200 |
+| /expert-advice/african-honeymoons-private-safari-and-island-escapes-by-season | **Verified 200** (published 19 Oct 2026). | Firecrawl statusCode 200 |
+| Heckfield to Wellington Lodge distance | **Still unconfirmed.** Not in either PDF. | |
+| Airports and transfers (Castiglion del Bosco, Villa Igiea, Babylonstoren) | **Still unconfirmed.** Not on official pages read. | |
+| Private hire of a Babylonstoren restaurant | **Still unconfirmed.** | |
+
+### D. Vogue (now citable, ruling 21 Oct 2026)
+
+**Verified.** "Inside Dove Cameron and Damiano David's Timeless Wedding at a Medieval Tuscan Estate", Liam Hess, Vogue, published 29 Sep 2026. https://www.vogue.com/slideshow/dove-cameron-and-damiano-david-wedding (status 200). Verbatim: "worked with Alessandra Grillo to plan the wedding"; "the home base for festivities being Castiglion del Bosco"; "For the civil ceremony in Montalcino ... for the dinner afterwards back at Castiglion del Bosco"; "the main ceremony held with a wider group at Castiglion del Bosco on the Saturday". Vogue also quotes the couple on "the flow of the weekend". It still does not say where guests stayed. T9 is upgraded from spot-checked to verified.

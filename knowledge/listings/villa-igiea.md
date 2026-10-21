@@ -14,7 +14,7 @@ capacity:
   seated_reception: { value: "180 (Belle Époque Ballroom, banquet; its floor-plan page gives Theatre 200, which the weddings page lists as seated 200); Salone Belmonte stated as 300 (possible inversion, confirm)", source: "https://www.roccofortehotels.com/hotels-and-resorts/villa-igiea/groups/floor-plans/belle-epoque-ballroom/", verified: "2026-10-21" }
   standing_reception: { value: "400 (Terrazza Mare); Belle Époque Ballroom 300 per weddings page vs Reception 280 per its floor-plan page (conflict, confirm)", source: "https://www.roccofortehotels.com/hotels-and-resorts/villa-igiea/weddings/", verified: "2026-10-21" }
 accommodation_rooms: { value: "72 guest rooms and 28 suites", source: "https://www.roccofortehotels.com/hotels-and-resorts/villa-igiea/weddings/", verified: "2026-10-21" }
-exclusive_use: { value: null, source: "Not stated; page says booking rooms around Salone Belmonte ensures privacy", verified: "2026-10-21" }
+exclusive_use: { value: "true (Rocco Forte: \"With exclusive use of Villa Igiea ... unforgettable weddings and group events\"; terms, minimum stay and guest numbers not stated)", source: "https://www.roccofortehotels.com/meetings-events/buyouts/", verified: "2026-10-21" }
 ceremony_options: { value: ["Sala Basile (symbolic ceremony area)", "garden temple"], source: "https://www.roccofortehotels.com/hotels-and-resorts/villa-igiea/weddings/", verified: "2026-10-21" }
 legal_ceremony_on_site: { value: null, source: "", verified: "" }
 season: { value: "", source: "", verified: "" }
@@ -25,8 +25,8 @@ nearest_airport: { value: "", travel_time: "", source: "", verified: "" }
 classification: "Specialist"   # ww-editorial-director, 2026-10-21; article role: Example of a principle (partial privacy versus full buy-out; distinct rooms per occasion); not a recommendation
 suited_to: "A larger weekend (100 keys, a ballroom seating up to 180) in a seaside Art Nouveau palazzo on the edge of Palermo, for couples who want city access and a different room for each occasion."
 classification_reason: "Strong on design, setting and local relevance, with the most published event rooms and capacities in the set; evidence is Present and whole-hotel exclusive use is not offered on any operator page, so it suits a partial-privacy weekend, not a buy-out."
-commercial_relationship: none   # none known as at 2026-10-21; Jillian to confirm
-disclosure_required: false
+commercial_relationship: "Indirect: Virtuoso hotel (virtuoso.com/travel/luxury-hotels/15974862); Rocco Forte not named in Wedded Wonderland programmes. No direct partnership found. Private contracts not checked. Verified 2026-10-21."
+disclosure_required: true
 related_dossier: "none yet (Sicily)"
 last_verified: 2026-10-21
 next_review: 2027-10-21

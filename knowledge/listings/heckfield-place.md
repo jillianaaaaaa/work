@@ -13,10 +13,10 @@ capacity:
   ceremony: { value: "120 (Assembly Room); 90 (Marle); 30 (Dining Room, Glass House, Hearth, Pavilion)", source: "https://www.heckfieldplace.com/media/4mtjdyod/heckfieldplace_events2025.pdf", verified: "2026-10-21" }
   seated_reception: { value: "100 (Assembly Room); 85 inside plus 40 terrace (Marle); up to 150 in a marquee", source: "https://www.heckfieldplace.com/media/4mtjdyod/heckfieldplace_events2025.pdf", verified: "2026-10-21" }
   standing_reception: { value: "190 (Assembly Room)", source: "https://www.heckfieldplace.com/media/4mtjdyod/heckfieldplace_events2025.pdf", verified: "2026-10-21" }
-accommodation_rooms: { value: "45 or 46 (conflict in operator PDF); 90 guests overnight on exclusive use; 28 more rooms at Wellington Lodge at Highfield by arrangement", source: "https://www.heckfieldplace.com/media/4mtjdyod/heckfieldplace_events2025.pdf", verified: "2026-10-21" }
+accommodation_rooms: { value: "45 or 46 (conflict: Events 2025 PDF says 46 and 45; undated updated brochure says 45; Virtuoso says 46); 90 guests overnight on exclusive use; 28 more rooms at Wellington Lodge at Highfield by arrangement", source: "https://www.heckfieldplace.com/media/4mtjdyod/heckfieldplace_events2025.pdf", verified: "2026-10-21" }
 exclusive_use: { value: "true (three tiers; only 'A Key to Heckfield' gives total privacy; two-night minimum; farm excluded)", source: "https://www.heckfieldplace.com/media/4mtjdyod/heckfieldplace_events2025.pdf", verified: "2026-10-21" }
 ceremony_options: { value: ["Assembly Room", "Dining Room", "Pavilion by the Lower Lake", "Glass House", "Hearth", "Marle", "Heckfield Church (nearby)", "Italian Terrace (blessings)"], source: "https://www.heckfieldplace.com/media/4mtjdyod/heckfieldplace_events2025.pdf", verified: "2026-10-21" }
-legal_ceremony_on_site: { value: true, source: "Operator states six spaces are licensed for wedding ceremonies (Events 2025 PDF)", verified: "2026-10-21" }
+legal_ceremony_on_site: { value: true, source: "Events 2025 PDF: six spaces licensed for wedding ceremonies; lists Notary services and Heckfield Church as services. Legal civil marriage in England is before a superintendent registrar and registrar (GOV.UK Registrar General guidance). Approved premises list entry not checked.", verified: "2026-10-21" }
 season: { value: "Pavilion best suited to spring, summer and autumn; preferential exclusive-use pricing in January and February", source: "https://www.heckfieldplace.com/media/4mtjdyod/heckfieldplace_events2025.pdf", verified: "2026-10-21" }
 restrictions: { value: ["Two-night minimum for exclusive use", "Weddings without exclusive use limited to 30 guests", "Outside contractors must be approved"], source: "https://www.heckfieldplace.com/media/4mtjdyod/heckfieldplace_events2025.pdf", verified: "2026-10-21" }
 nearest_airport: { value: "London Heathrow", travel_time: "45 minutes (operator)", source: "https://www.heckfieldplace.com/media/fiyp5nbw/wedding_event_brochure-nov-22.pdf (2022 brochure)", verified: "2026-10-21" }
@@ -25,8 +25,8 @@ nearest_airport: { value: "London Heathrow", travel_time: "45 minutes (operator)
 classification: "Signature"   # ww-editorial-director, 2026-10-21; article role: Recommendation (lead example for exclusive-use tiers and the beds-to-guests gap)
 suited_to: "An exclusive-use English country-house weekend for up to 90 guests sleeping on site (120 by day, 150 with a marquee), where the couple wants every occasion, from ceremony to day-after lunch, in one estate with food grown on it."
 classification_reason: "Strong on design, distinctiveness, experience, local relevance and evidence: three published privacy tiers, six licensed ceremony spaces with stated capacities and an estate farm that shapes the menu, all from the operator's Events 2025 PDF. Audience relevance is Present only because larger long-haul guest lists exceed 90 beds."
-commercial_relationship: none   # none known as at 2026-10-21; Jillian to confirm
-disclosure_required: false
+commercial_relationship: "Indirect: Virtuoso hotel (virtuoso.com/hotels/15776341/heckfield-place); Wedded Wonderland offers perks through Virtuoso. No direct partnership, listing or advertising found. Private contracts not checked. Verified 2026-10-21."
+disclosure_required: true
 related_dossier: "none yet"
 last_verified: 2026-10-21
 next_review: 2027-10-21

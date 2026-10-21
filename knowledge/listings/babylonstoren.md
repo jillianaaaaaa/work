@@ -25,7 +25,7 @@ nearest_airport: { value: "", travel_time: "", source: "", verified: "" }
 classification: "Specialist"   # ww-editorial-director, 2026-10-21; article role: Recommendation for that need (under 100 guests), and example of venue-precinct exclusivity, curfew and the beds gap
 suited_to: "An evening celebration for up to 100 guests in the Cape Winelands where the working garden sets the menu and flowers, with three farm buildings used in sequence and a small core of the party sleeping on the farm."
 classification_reason: "Strong on design, distinctiveness, local relevance and evidence (operator guide and pages), but one function at a time across three spaces and limited included accommodation make it the right choice for a specific, smaller format rather than a whole-weekend buy-out."
-commercial_relationship: none   # none known as at 2026-10-21; Jillian to confirm
+commercial_relationship: none   # none found publicly 2026-10-21 (WW site, directories, packages, Wedded World, magazines, Virtuoso hotels); private contracts not checked
 disclosure_required: false
 related_dossier: "none yet (Western Cape)"
 last_verified: 2026-10-21
