@@ -16,7 +16,7 @@
 
 # How to Choose a Wedding Weekend Venue That Hosts Every Occasion
 
-As more weddings run over three days, led by the United States, wedding weekend venues are judged on everything they can hold across the stay. This is Wedded Wonderland's guide to reading a destination wedding venue for the whole weekend, covering exclusive use, guest rooms and the walk between dinner and dancing, shown through four properties in England, Italy and South Africa.
+As more weddings run over three days, wedding weekend venues are judged on everything they can hold across the stay. This is Wedded Wonderland's guide to reading a destination wedding venue for the whole weekend, covering exclusive use, guest rooms and the walk between dinner and dancing, shown through four properties in England, Italy and South Africa.
 
 ![A long candlelit dining table set in the gardens at Heckfield Place](https://www.heckfieldplace.com/media/vifipabz/hpweddings.jpg)
 Source: Heckfield Place
@@ -46,7 +46,7 @@ In the United States nearly one in three weddings now spans at least three days,
 
 A celebration over several days asks guests to give their time and energy, and it gives the couple more hours to host them well. Dove Cameron and Damiano David held a civil ceremony in Montalcino, then their main ceremony on the Saturday at Castiglion del Bosco, a Rosewood estate in the Val d'Orcia, with the wedding planned by Alessandra Grillo.
 
-Vogue reported on 29 September 2026 that the dinner after the civil ceremony also returned to the estate, so the estate held both the main ceremony and the dinner that followed the civil one. For more on [how a Tuscan celebration unfolds over several days](https://weddedwonderland.com/expert-advice/what-is-a-tuscany-wedding-actually-like), our Tuscany guide walks through the format.
+Vogue reported on 29 September 2026 that the dinner after the civil ceremony also returned to the estate, so a single property carried two of the weekend's occasions. For more on [how a Tuscan celebration unfolds over several days](https://weddedwonderland.com/expert-advice/what-is-a-tuscany-wedding-actually-like), our Tuscany guide walks through the format.
 
 ### The Five Tests We Apply to Every Property
 
