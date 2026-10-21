@@ -63,6 +63,21 @@ Review depth follows the tier (see `editorial/06-workflow.md`): Tier 1 flagship,
 5. Australian English, AUD, and the voice rules in the skill and `editorial/07-style-guide.md`.
 6. Operations are standardised. Editorial judgement is not outsourced to the standardisation.
 
+## Standing rulings from Jillian (pending a skill update)
+
+These override the `wedded-wonderland-articles` skill until Jillian updates it. Apply them on every article.
+
+- **Wedded Concierge CTA block (21 Oct 2026).** Four lines, the button line now included:
+  ```
+  Planning your [topic]?
+  Let our Wedded Concierge shape your [name of experience or service].
+  Discover [a prompt line that connects to Wedded Wonderland].
+  Join Wedded Concierge →
+  ```
+- **Vogue may be cited (21 Oct 2026).** Vogue is not a direct competitor; Wedded Wonderland works alongside it. Direct competitors (wedding directories and planning sites such as The Knot, Easy Weddings, Brides) remain uncitable.
+- **Commercial relationships are the team's job to establish (21 Oct 2026).** Before Checkpoint 2, `ww-research-intelligence` checks every featured property and brand against Wedded Wonderland's own pages (vendor and venue directories, Wedded World partners, magazines, packages) and public sources, and reports the finding with evidence. Do not hand the question to Jillian.
+- **Operator PDFs may be listed in Sources (21 Oct 2026)** when they are official and the latest available version; record the version or date.
+
 ## House rules for the team itself
 
 - Write handbook and template changes into this repository, not into chat, so the next session inherits them.
