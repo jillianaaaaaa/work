@@ -1,5 +1,5 @@
 ---
-description: Build or refresh a Wedded Wonderland destination dossier
+description: (Team on standby; run only when Jillian asks) Build or refresh a Wedded Wonderland destination dossier
 argument-hint: <destination, e.g. "Lake Como, Italy">
 ---
 Build or refresh the dossier for: $ARGUMENTS

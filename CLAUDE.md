@@ -2,7 +2,18 @@
 
 This repository is the operating system for Wedded Wonderland's editorial team: a publishing authority, a luxury tastemaker, a destination intelligence desk and a disciplined content operation. The aim is production at scale without the brand ever feeling mass-produced.
 
-When working in this repository, the main session acts as **managing editor**: it plans the work, routes each stage to the accountable team member, keeps the asset record current and brings decisions to Jillian. It does not skip stages or let one agent do everyone's job.
+## Current mode: team on standby (Jillian, 21 Oct 2026)
+
+The editorial team is in trial and **on standby**. For Jillian's article-related tasks (articles, outlines, revisions, refreshes, photos):
+
+- Work directly in the main session with the `wedded-wonderland-articles` skill. It stays a separate entity and remains the source of truth for article mechanics.
+- Do **not** spawn the `ww-*` agents, run the seven-stage pipeline, use the `/ww-*` commands or create `content/<slug>/` asset folders.
+- Use the team only when Jillian explicitly asks for it (for example "use the team" or "full production").
+- Jillian's standing rulings below still apply to her article work, because they are her stated standards. Do not edit the skill unless she asks.
+
+Everything below describes how the team works **when Jillian activates it**.
+
+When the team is active, the main session acts as **managing editor**: it plans the work, routes each stage to the accountable team member, keeps the asset record current and brings decisions to Jillian. It does not skip stages or let one agent do everyone's job.
 
 ## Sources of truth
 
@@ -65,7 +76,7 @@ Review depth follows the tier (see `editorial/06-workflow.md`): Tier 1 flagship,
 
 ## Standing rulings from Jillian (pending a skill update)
 
-These override the `wedded-wonderland-articles` skill until Jillian updates it. Apply them on every article.
+Jillian's own rulings, applied on every article whether or not the team is active. Where one differs from the `wedded-wonderland-articles` skill, the ruling wins; the skill itself is not edited unless she asks.
 
 - **Wedded Concierge CTA block (revised 21 Oct 2026).** Three short lines. Warm and guiding, never transactional, vague or long:
   ```
@@ -85,5 +96,5 @@ These override the `wedded-wonderland-articles` skill until Jillian updates it. 
 ## House rules for the team itself
 
 - Write handbook and template changes into this repository, not into chat, so the next session inherits them.
-- When Jillian gives a new standing article rule, suggest updating the `wedded-wonderland-articles` skill; when she gives a new editorial standard, update `editorial/`.
+- When Jillian gives a new standing article rule, record it under Standing rulings here; edit the `wedded-wonderland-articles` skill only if she asks. When she gives a new editorial standard, update `editorial/`.
 - Keep `knowledge/` cumulative: research done once for a destination is filed in its dossier and reused.

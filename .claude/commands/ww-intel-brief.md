@@ -1,5 +1,5 @@
 ---
-description: Produce this week's Wedded Wonderland intelligence brief
+description: (Team on standby; run only when Jillian asks) Produce this week's Wedded Wonderland intelligence brief
 ---
 `ww-research-intelligence`: produce this week's brief at `knowledge/intelligence/<today's date>.md` from `templates/weekly-intelligence-brief.md`, running Observe, Interpret, Validate and Commission per `editorial/04-trend-desk.md`. Read the previous brief first to follow up on monitored items.
 

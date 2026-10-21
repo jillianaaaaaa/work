@@ -1,5 +1,5 @@
 ---
-description: Run the monthly taste and performance review and editorial quality audit
+description: (Team on standby; run only when Jillian asks) Run the monthly taste and performance review and editorial quality audit
 ---
 Produce `knowledge/reviews/<YYYY-MM>-monthly.md` from `templates/monthly-review.md`.
 

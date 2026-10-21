@@ -1,5 +1,5 @@
 ---
-description: Editorial review of a brief, draft, listing or caption against its tier, the taste system and the three questions
+description: (Team on standby; run only when Jillian asks) Editorial review of a brief, draft, listing or caption against its tier, the taste system and the three questions
 argument-hint: <path to the file or asset folder>
 ---
 `ww-editorial-director`: review $ARGUMENTS.

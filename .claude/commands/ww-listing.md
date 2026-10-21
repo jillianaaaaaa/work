@@ -1,5 +1,5 @@
 ---
-description: Produce or update a Wedded Wonderland listing record to the listing standard
+description: (Team on standby; run only when Jillian asks) Produce or update a Wedded Wonderland listing record to the listing standard
 argument-hint: <venue, hotel or supplier name and location>
 ---
 Produce or update a listing for: $ARGUMENTS

@@ -1,5 +1,5 @@
 ---
-description: Run the quarterly authority and destination review
+description: (Team on standby; run only when Jillian asks) Run the quarterly authority and destination review
 ---
 Produce `knowledge/reviews/<YYYY>-Q<n>-quarterly.md` from `templates/quarterly-review.md`.
 

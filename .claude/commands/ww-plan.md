@@ -1,5 +1,5 @@
 ---
-description: Open a new Wedded Wonderland asset - classify, tier, assign an owner and check for overlap
+description: (Team on standby; run only when Jillian asks) Open a new Wedded Wonderland asset - classify, tier, assign an owner and check for overlap
 argument-hint: <topic or asset idea>
 ---
 Open a new asset for: $ARGUMENTS

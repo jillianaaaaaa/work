@@ -1,5 +1,5 @@
 ---
-description: Run the Wedded Wonderland article pipeline through Checkpoint 1 (or continue an existing asset)
+description: (Team on standby; run only when Jillian asks) Run the Wedded Wonderland article pipeline through Checkpoint 1 (or continue an existing asset)
 argument-hint: <topic, or content/<slug> to continue>
 ---
 Run the editorial pipeline for: $ARGUMENTS
